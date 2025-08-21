@@ -1,38 +1,70 @@
 ## Company
 ##### brief description
-### part1
+### Creating a company
 > description
-### part2
+### Renaming your company
+> description
+### Requesting to join a company
 > description
 
-## Users
+## Employees
 ##### brief description
-### part1
+### Adding employees manually
 > description
+### Adding employees via request
+> description
+### Removing employees
+> You cannot remove employees once they have joined the company. You can only manage their 'General Access' moving forward.
 
 ## Positions
 ##### brief description
-### part1
+### Creating a position
+> description
+### Renaming a position
+> description
+### Deleting a position
+> description
+### Assign an employee to a position
+> description
+### Unassign an employee from a position
 > description
 
 ## Hierarchy
 ##### brief description
-### part1
+### Managing an employee's hierarchy
+> description
+### Managing a position's hierarchy
 > description
 
 ## Departments
 ##### brief description
-### part1
+### Creating a department
+> description
+### Renaming a department
+> description
+### Deleting a department
+> description
+### Assign a position to a department
+> description
+### Unassign a position from a department
 > description
 
 ## General Access
 ##### brief description
-### part1
+### Managing the company's general access
+> description
+### Managing a position's general access
+> description
+### Managing an employee's general access
 > description
 
 ## Time Access
 ##### brief description
-### part1
+### Managing the company's time access
+> description
+### Managing a position's time access
+> description
+### Managing an employee's time access
 > description
 
 ## Managers
