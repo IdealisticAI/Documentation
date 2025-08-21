@@ -1,4 +1,11 @@
-# Welcome to the documentation of Idealistic: Big Manage.
+## Company
+### part1
+> description
+### part2
+> description
 
-## Repository reserved for public documentation in regards to our company, users, products and services.
-### Test
+## Positions
+### part1
+> description
+### part2
+> description
