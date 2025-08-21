@@ -69,42 +69,79 @@
 
 ## Managers
 ##### brief description
-### part1
+### Promoting an employee to manager
+> description
+### Demoting an employee from manager
 > description
 
 ## Timezone
 ##### brief description
-### part1
+### Changing your timezone
 > description
 
 ## Preferred Language
-##### brief description
-### part1
-> description
+##### You do not need to set your preferred language. Our software will always attempt to follow the last language you used when chatting with it.
 
-## Voice Messages
+## Voice Replies
 ##### brief description
-### part1
-> description
-
-## Purpose
-##### brief description
-### part1
+### Toggling voice replies
 > description
 
 ## Reminders
 ##### brief description
-### part1
+### Creating a reminder for the company
+> description
+### Creating a reminder for one or multiple positions
+> description
+### Creating a reminder for one or multiple employees
+> description
+### Deleting a reminder 
+> description
+
+## Purpose
+##### brief description
+### Adding to the company's purpose
+> description
+### Removing from the company's purpose
+> description
+### Adding to a position's purpose
+> description
+### Removing from a position's purpose
+> description
+### Adding to an employee's purpose
+> description
+### Removing from an employee's purpose
 > description
 
 ## Past
 ##### brief description
 ### part1
+### Adding to the company's past
+> description
+### Removing from the company's past
+> description
+### Adding to a position's past
+> description
+### Removing from a position's past
+> description
+### Adding to an employee's past
+> description
+### Removing from an employee's past
 > description
 
 ## Instructions
 ##### brief description
-### part1
+### Adding to the company's instructions
+> description
+### Removing from the company's instructions
+> description
+### Adding to a position's instructions
+> description
+### Removing from a position's instructions
+> description
+### Adding to an employee's instructions
+> description
+### Removing from an employee's instructions
 > description
 
 ## Attachments
@@ -119,22 +156,62 @@
 
 ## Emails
 ##### brief description
-### part1
+### Adding to the company's emails
+> description
+### Removing from the company's emails
+> description
+### Adding to a position's emails
+> description
+### Removing from a position's emails
+> description
+### Adding to an employee's emails
+> description
+### Removing from an employee's emails
 > description
 
 ## Phone Numbers
 ##### brief description
-### part1
+### Adding to the company's phone numbers
+> description
+### Removing from the company's phone numbers
+> description
+### Adding to a position's phone numbers
+> description
+### Removing from a position's phone numbers
+> description
+### Adding to an employee's phone numbers
+> description
+### Removing from an employee's phone numbers
 > description
 
 ## Fax Numbers
 ##### brief description
-### part1
+### Adding to the company's fax numbers
+> description
+### Removing from the company's fax numbers
+> description
+### Adding to a position's fax numbers
+> description
+### Removing from a position's fax numbers
+> description
+### Adding to an employee's fax numbers
+> description
+### Removing from an employee's fax numbers
 > description
 
 ## Physical Addresses
 ##### brief description
-### part1
+### Adding to the company's fax physical addresses
+> description
+### Removing from the company's physical addresses
+> description
+### Adding to a position's physical addresses
+> description
+### Removing from a position's physical addresses
+> description
+### Adding to an employee's physical addresses
+> description
+### Removing from an employee's physical addresses
 > description
 
 ## Cases
