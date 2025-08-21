@@ -214,24 +214,62 @@
 ### Removing from an employee's physical addresses
 > description
 
+## Customers
+##### brief description
+### Creating a customer
+> description
+### Renaming a customer
+> description
+### Deleting a customer
+> description
+
+## Goods & Services
+##### brief description
+### Creating a goods & service
+> description
+### Renaming a goods & service
+> description
+### Deleting a goods & service
+> description
+
 ## Cases
 ##### brief description
-### part1
+### Opening a case
+> description
+### Closing a case
+> description
+### Selecting a case
+> description
+### Commenting on a case
+> description
+### Attaching an employee to a case
+> description
+### Detaching an employee from a case
+> description
+### Attaching a customer to a case
+> description
+### Detaching a customer from a case
+> description
+### Attaching a goods & service to a case
+> description
+### Detaching a goods & service from a case
 > description
 
 ## Targets
 ##### brief description
-### part1
+### Opening a target
 > description
-
-## Customers
-##### brief description
-### part1
+### Closing a target
 > description
-
-## Goods and Services
-##### brief description
-### part1
+### Selecting a target
+> description
+### Attaching an employee to a target
+> description
+### Detaching an employee from a target
+> description
+### Attaching a case to a target
+> description
+### Detaching a case from a target
 > description
 
 
