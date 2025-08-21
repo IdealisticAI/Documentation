@@ -146,12 +146,34 @@
 
 ## Attachments
 ##### brief description
-### part1
+### Generating an image
+> description
+### Generating an image from an image reference
+> description
+### Creating a non-image file
+> description
+### Modifying a non-image file
+> description
+### Uploading attachments
+> description
+### Finding uploaded/created attachments
 > description
 
 ## Links
 ##### brief description
-### part1
+### Studying a link
+> description
+### Adding to the company's links
+> description
+### Removing from the company's links
+> description
+### Adding to a position's links
+> description
+### Removing from a position's links
+> description
+### Adding to an employee's links
+> description
+### Removing from an employee's links
 > description
 
 ## Emails
