@@ -240,20 +240,20 @@
 ## Customers
 ##### Customers represent the clients or partners your company works with.
 ### Creating a customer
-> description
+> Provide the name of the customer you want to add to the company. You can also include an optional justification. For example, you could tell BigManage: “Add a customer named ‘Acme Corp’ to the company.”
 ### Renaming a customer
-> description
+> Provide the new name for the customer you want to rename. You can refer to the customer by name or by ID and include an optional justification. For example, you could tell BigManage: “Rename the customer ‘Acme Corp’ to ‘Acme Solutions’ because of rebranding.”
 ### Deleting a customer
-> description
+> Specify the customer you want to remove from the company and include a justification if needed. You can refer to the customer by name or by ID. For example, you could tell BigManage: “Remove the customer ‘Acme Corp’ from the company because the contract was canceled.”
 
 ## Goods & Services
 ##### Goods and services represent the products or offerings your company provides.
 ### Creating a goods & service
-> description
+> Provide the name of the goods or service you want to add to the company. You can also include an optional justification. For example, you could tell BigManage: “Add a goods item named ‘Premium Support Package’ to the company.”
 ### Renaming a goods & service
-> description
+> Provide the new name for the goods or service you want to rename. You can refer to the item by its current name or ID and include an optional justification. For example, you could tell BigManage: “Rename the goods item ‘Premium Support Package’ to ‘Premium Care Package’ because of rebranding.”
 ### Deleting a goods & service
-> description
+> Specify the goods or service you want to remove from the company and include a justification if needed. You can refer to the item by its name or ID. For example, you could tell BigManage: “Remove the goods item ‘Premium Care Package’ because it is no longer offered.”
 
 ## Cases
 ##### Cases are records of issues, tasks or projects that involve employees, customers or goods & services.
