@@ -51,9 +51,9 @@
 ### Deleting a department
 > Specify the department you want to remove by its ID or name. You can also explain why it should be deleted. For example, you could tell BigManage: “Remove the department ‘Marketing’ because it was merged with Sales” or “Delete department 7 due to restructuring.”
 ### Assigning a position to a department
-> description
+> Specify the position by its ID or name and the department by its ID or name to attach the position. For example, you could tell BigManage: “Assign the Finance Manager position to the Accounting department” or “Attach position 5 to department 3.”
 ### Unassigning a position from a department
-> description
+> Specify the position you want to detach by its ID or name. You can also explain why the position is being removed from the department. For example, you could tell BigManage: “Remove the Finance Manager position from the Accounting department because of restructuring” or “Unassign position 5 from its department due to role changes.”
 
 ## General Access
 ##### General access controls what employees, positions or the entire company can do by default. For example, it can allow full access, block access entirely while hiding past information or block access while keeping past information visible to other employees.
