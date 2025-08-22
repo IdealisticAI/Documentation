@@ -19,7 +19,7 @@
 > You cannot remove employees once they have joined the company. You can only manage their 'General Access' moving forward.
 
 ## Positions
-##### Employees can have no position, a single position, or multiple positions, which define their role and level in the company’s hierarchy.
+##### Employees can have no position, a single position or multiple positions, which define their role and level in the company’s hierarchy.
 ### Creating a position
 > description
 ### Renaming a position
@@ -52,7 +52,7 @@
 > description
 
 ## General Access
-##### General access controls what employees, positions, or the whole company can do by default.
+##### General access controls what employees, positions or the entire company can do by default. For example, it can allow full access, block access entirely while hiding past information or block access while keeping past information visible to other employees.
 ### Managing the company's general access
 > description
 ### Managing a position's general access
@@ -61,7 +61,7 @@
 > description
 
 ## Time Access
-##### Time access sets limits on when employees, positions, or the company can perform certain actions.
+##### Time access sets limits on when employees, positions or the company can perform certain actions.
 ### Managing the company's time access
 > description
 ### Managing a position's time access
@@ -70,27 +70,27 @@
 > description
 
 ## Managers
-##### Managers have higher control over the company, allowing them to oversee employees, positions, and settings.
+##### Managers have greater control over the company, allowing them to oversee employees, positions, and settings. Specifically, they can perform company-wide actions such as creating positions and departments, managing general access, adjusting time access, and more.
 ### Promoting an employee to manager
 > description
 ### Demoting an employee from manager
 > description
 
 ## Timezone
-##### The timezone defines when events, reminders, and activities are scheduled for the company.
+##### The timezone determines how time is calculated for each employee, making it easy to track events and answer questions like ‘How long ago did this happen?’
 ### Changing your timezone
 > description
 
 ## Preferred Language
-##### You do not need to set your preferred language. BigManage will always attempt to follow the last language you used when chatting with it.
+##### You don’t need to set a preferred language. BigManage will automatically use the last language you used in your conversations.
 
 ## Voice Replies
-##### Voice replies let BigManage respond with spoken messages instead of only text.
+##### Voice replies let BigManage respond with spoken messages instead of only text. Please keep in mind that this feature is not available on all platforms BigManage operates.
 ### Toggling voice replies
 > description
 
 ## Reminders
-##### Reminders help keep track of important tasks, deadlines, and goals across the company.
+##### Reminders notify the company, specific positions or individual employees about important tasks or events. They can be set to occur once, multiple times or on a regular schedule.
 ### Creating a reminder for the company
 > description
 ### Creating a reminder for one or multiple positions
@@ -101,7 +101,7 @@
 > description
 
 ## Purpose
-##### The purpose defines the goals and objectives for the company, positions, or employees.
+##### The purpose defines the goals and objectives for the company, positions or employees.
 ### Adding to the company's purpose
 > description
 ### Removing from the company's purpose
@@ -116,7 +116,7 @@
 > description
 
 ## Past
-##### The past stores records of events, actions, and notes related to the company, positions, or employees.
+##### The past keeps a record of important facts about the company, positions, or employees, typically from before they started using BigManage or from before an employee joined the company.
 ### part1
 ### Adding to the company's past
 > description
@@ -132,7 +132,7 @@
 > description
 
 ## Instructions
-##### Instructions are guidelines or directions that can be given to the company, positions, or employees.
+##### Instructions are guidelines or directions that can be given to the company, positions or employees.
 ### Adding to the company's instructions
 > description
 ### Removing from the company's instructions
@@ -162,7 +162,7 @@
 > description
 
 ## Links
-##### Links store and organize external resources connected to the company, positions, or employees.
+##### Links store and organize external resources connected to the company, positions, employees or in general.
 ### Studying a link
 > description
 ### Adding to the company's links
@@ -179,7 +179,7 @@
 > description
 
 ## Emails
-##### Emails store company-wide or individual addresses for communication and record-keeping.
+##### Emails store contact addresses for the company, its positions, or employees, helping with communication and record-keeping.
 ### Adding to the company's emails
 > description
 ### Removing from the company's emails
@@ -194,7 +194,7 @@
 > description
 
 ## Phone Numbers
-##### Phone numbers are stored for company, position, or employee contact details.
+##### Phone numbers are stored for company, position or employee contact details.
 ### Adding to the company's phone numbers
 > description
 ### Removing from the company's phone numbers
@@ -209,7 +209,7 @@
 > description
 
 ## Fax Numbers
-##### Fax numbers can be added and managed for the company, positions, or employees when needed.
+##### Fax numbers can be added and managed for the company, positions or employees when needed.
 ### Adding to the company's fax numbers
 > description
 ### Removing from the company's fax numbers
@@ -224,7 +224,7 @@
 > description
 
 ## Physical Addresses
-##### Physical addresses record the locations of the company, positions, or employees.
+##### Physical addresses record the locations of the company, positions or employees.
 ### Adding to the company's physical addresses
 > description
 ### Removing from the company's physical addresses
@@ -257,7 +257,7 @@
 > description
 
 ## Cases
-##### Cases are records of issues, tasks, or projects that involve employees, customers, or goods & services.
+##### Cases are records of issues, tasks or projects that involve employees, customers or goods & services.
 ### Opening a case
 > description
 ### Closing a case
@@ -280,7 +280,7 @@
 > description
 
 ## Targets
-##### Targets represent goals or objectives linked to employees, cases, or other elements of the company.
+##### Targets represent goals or objectives linked to cases of the company.
 ### Opening a target
 > description
 ### Closing a target
