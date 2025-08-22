@@ -21,22 +21,22 @@
 ## Positions
 ##### Employees can have no position, a single position or multiple positions, which define their role and level in the company’s hierarchy.
 ### Creating a position
-> description
+> Specify the name of the position you want to add to the company. You can also provide an optional justification for creating it. For example, you could tell BigManage: “Create a Marketing Manager position” or “Add a Junior Developer position with justification: company expansion.”
 ### Renaming a position
-> description
+> Change the name of an existing position in the company by specifying the new name and the position’s ID or current name. You can optionally provide a justification for the change. For example, you could tell BigManage: “Rename the Junior Developer position to Software Engineer” or “Change Marketing Manager to Senior Marketing Manager with justification: promotion.”
 ### Deleting a position
-> description
-### Assign an employee to a position
-> description
-### Unassign an employee from a position
-> description
+> Remove a position from the company by specifying its name or ID. You can optionally provide a justification for the removal. For example, you could tell BigManage: “Delete the Marketing Manager position” or “Remove the Junior Developer position with justification: restructuring.”
+### Assigning an employee to a position
+> Assign an employee to a specific position in the company by specifying the employee’s name, email, or ID and the position’s name or ID. You can optionally provide a justification for the assignment. For example, you could tell BigManage: “Assign John Doe to the Software Engineer position” or “Add employee with email jane@example.com to the Marketing Manager position, justification: promotion.”
+### Unassigning an employee from a position
+> Remove an employee from a specific position in the company by specifying the employee’s name, email, or ID and the position’s name or ID. You can optionally provide a justification for the removal. For example, you could tell BigManage: “Remove John Doe from the Software Engineer position” or “Unassign employee with email jane@example.com from the Marketing Manager position, justification: departmental restructuring.”
 
 ## Hierarchy
 ##### The hierarchy defines how positions and employees are structured within the company, showing who reports to whom.
 ### Managing an employee's hierarchy
-> description
+> Specify the employee whose hierarchy you want to modify and indicate the hierarchical level in relation to a reference (above, below, or equal). You can also provide an optional justification. For example, you could tell BigManage: “Set John Doe’s hierarchical level to be above the team lead” or “Adjust Jane Smith to be equal with the senior manager.”
 ### Managing a position's hierarchy
-> description
+> Specify the position whose hierarchy you want to adjust, and indicate its hierarchical level relative to another reference (above, below, or equal). You can also provide an optional justification. For example, you could tell BigManage: “Set Marketing Manager above Sales Manager” or “Adjust Junior Developer to be equal with Intern.”
 
 ## Departments
 ##### Departments group positions under broader categories, making it easier to organize and manage teams.
@@ -46,9 +46,9 @@
 > description
 ### Deleting a department
 > description
-### Assign a position to a department
+### Assigning a position to a department
 > description
-### Unassign a position from a department
+### Unassigning a position from a department
 > description
 
 ## General Access
