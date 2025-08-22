@@ -166,62 +166,62 @@
 ### Studying a link
 > description
 ### Adding to the company's links
-> description
+> Provide the URL and a reference name for the link. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a link called ‘Company Website’ with URL ‘https://example.com’ because it is the official website.”
 ### Removing from the company's links
-> description
+> Indicate which link to remove, optionally including a justification. You can refer to the link by its reference name or a number pointer if there are multiple links. For example, you could tell BigManage: “Remove the link called ‘Company Website’ because it is no longer active.”
 ### Adding to a position's links
-> description
+> Provide the URL and a reference name for the link. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add a link called ‘Project Guidelines’ with URL ‘https://example.com/guidelines’ to the position ‘Sales Team’ because it’s important for their workflow.”
 ### Removing from a position's links
-> description
+> Specify the position by name or ID and indicate which link to remove, optionally including a justification. You can refer to the link by its reference name or a number pointer if there are multiple links. For example, you could tell BigManage: “Remove the link called ‘Project Guidelines’ from the position ‘Sales Team’ because it is outdated.”
 ### Adding to an employee's links
-> description
+> Provide the URL and a reference name for the link. You can also include an optional justification explaining why it’s being added. Refer to the employee by name, email, or ID. For example, you could tell BigManage: “Add a link called ‘Portfolio’ with URL ‘https://example.com/johndoe’ to the employee ‘John Doe’ because it showcases his work.”
 ### Removing from an employee's links
-> description
+> Specify the employee by name, email, or ID and indicate which link to remove, optionally including a justification. You can refer to the link by its reference name or a number pointer if there are multiple links. For example, you could tell BigManage: “Remove the link called ‘Portfolio’ from the employee ‘John Doe’ because it is no longer relevant.”
 
 ## Emails
 ##### Emails store contact addresses for the company, its positions, or employees, helping with communication and record-keeping.
 ### Adding to the company's emails
-> description
+> Provide the email address and a reference name. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add an email ‘info@example.com’ with reference name ‘Main Inbox’ because it will be used for official company communications.”
 ### Removing from the company's emails
-> description
+> Indicate which email to remove, optionally including a justification. You can refer to the email by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the email called ‘Main Inbox’ because it is no longer in use.”
 ### Adding to a position's emails
-> description
+> Provide the email address and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add an email ‘sales@example.com’ with reference name ‘Sales Inbox’ to the position ‘Sales Team’ because it will be used for client communications.”
 ### Removing from a position's emails
-> description
+> Specify the position by name or ID and indicate which email to remove, optionally including a justification. You can refer to the email by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the email called ‘Sales Inbox’ from the position ‘Sales Team’ because it is no longer in use.”
 ### Adding to an employee's emails
-> description
+> Provide the email address and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the employee by name, email, or ID. For example, you could tell BigManage: “Add an email ‘johndoe@example.com’ with reference name ‘Work Email’ to the employee ‘John Doe’ because it will be used for official communications.”
 ### Removing from an employee's emails
-> description
+> Specify the employee by name, email, or ID and indicate which email to remove, optionally including a justification. You can refer to the email by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the email called ‘Work Email’ from the employee ‘John Doe’ because it is no longer active.”
 
 ## Phone Numbers
 ##### Phone numbers are stored for company, position or employee contact details.
 ### Adding to the company's phone numbers
-> description
+> Provide the phone number and a reference name. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a phone number ‘+30 210 9999999’ with reference name ‘Main Line’ because it will be used for company communications.”
 ### Removing from the company's phone numbers
-> description
+> Indicate which phone number to remove, optionally including a justification. You can refer to the phone number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the phone number called ‘Main Line’ because it is no longer active.”
 ### Adding to a position's phone numbers
-> description
+> Provide the phone number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add a phone number ‘+30 210 1234567’ with reference name ‘Sales Line’ to the position ‘Sales Team’ because it will be used for client calls.”
 ### Removing from a position's phone numbers
-> description
+> Specify the position by name or ID and indicate which phone number to remove, optionally including a justification. You can refer to the phone number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the phone number called ‘Sales Line’ from the position ‘Sales Team’ because it is no longer in use.”
 ### Adding to an employee's phone numbers
-> description
+> Provide the phone number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the employee by name, email, or ID. For example, you could tell BigManage: “Add a phone number ‘+30 210 7654321’ with reference name ‘John Line’ to the employee ‘John Doe’ because it will be used for work-related calls.”
 ### Removing from an employee's phone numbers
-> description
+> Specify the employee by name, email, or ID and indicate which phone number to remove, optionally including a justification. You can refer to the phone number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the phone number called ‘John Line’ from the employee ‘John Doe’ because it is no longer active.”
 
 ## Fax Numbers
 ##### Fax numbers can be added and managed for the company, positions or employees when needed.
 ### Adding to the company's fax numbers
-> description
+> Provide the fax number and a reference name. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a fax number ‘+30 210 9999999’ with reference name ‘Main Fax’ because it will be used for official company communications.”
 ### Removing from the company's fax numbers
-> description
+> Indicate which fax number to remove, optionally including a justification. You can refer to the fax number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the fax number called ‘Main Fax’ because it is no longer active.”
 ### Adding to a position's fax numbers
-> description
+> Provide the fax number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add a fax number ‘+30 210 1234567’ with reference name ‘Sales Fax’ to the position ‘Sales Team’ because it will be used for official documents.”
 ### Removing from a position's fax numbers
-> description
+> Specify the position by name or ID and indicate which fax number to remove, optionally including a justification. You can refer to the fax number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the fax number called ‘Sales Fax’ from the position ‘Sales Team’ because it is no longer in use.”
 ### Adding to an employee's fax numbers
-> description
+> Provide the fax number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the employee by name, email, or ID. For example, you could tell BigManage: “Add a fax number ‘+30 210 7654321’ with reference name ‘John Fax’ to the employee ‘John Doe’ because it will be used for official documents.”
 ### Removing from an employee's fax numbers
-> description
+> Specify the employee by name, email, or ID and indicate which fax number to remove, optionally including a justification. You can refer to the fax number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the fax number called ‘John Fax’ from the employee ‘John Doe’ because it is no longer active.”
 
 ## Physical Addresses
 ##### Physical addresses record the locations of the company, positions or employees.
