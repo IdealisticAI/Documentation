@@ -1,4 +1,4 @@
-Introducing BigManage by Idealistic AI...
+Introducing BigManage by Idealistic AI – a revolutionary software designed to streamline company communication. BigManage leverages AI to intelligently extract and organize information directly from user chat prompts—no menus, buttons, or traditional UI required. Experience seamless intercommunication like never before.
 
 ## Company
 ##### To start using BigManage, you’ll need to create or join a company. This will be the main space where all your future content is organized and managed.
