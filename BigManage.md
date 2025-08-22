@@ -79,7 +79,7 @@
 ## Timezone
 ##### The timezone determines how time is calculated for each employee, making it easy to track events and answer questions like ‘How long ago did this happen?’
 ### Changing your timezone
-> description
+> Provide the timezone you want to set using its abbreviation (e.g., “EET”, “PST”) or by naming a city or country in that timezone (e.g., “Athens”, “New York”). For example, you could tell BigManage: “Set my timezone to EET” or “Set my timezone to Athens.”
 
 ## Preferred Language
 ##### You don’t need to set a preferred language. BigManage will automatically use the last language you used in your conversations.
@@ -87,7 +87,7 @@
 ## Voice Replies
 ##### Voice replies let BigManage respond with spoken messages instead of only text. Please keep in mind that this feature is not available on all platforms BigManage operates.
 ### Toggling voice replies
-> description
+> Specify whether you want to enable or disable voice replies. You can explicitly set the status or simply toggle it. For example, you could tell BigManage: “Enable voice replies”, “Disable voice replies”, or “Toggle voice replies.”
 
 ## Reminders
 ##### Reminders notify the company, specific positions or individual employees about important tasks or events. They can be set to occur once, multiple times or on a regular schedule.
@@ -148,22 +148,22 @@
 ## Attachments
 ##### Attachments let you create, upload, and manage files or images related to the company.
 ### Generating an image
-> description
+> Provide a description of the image you want to create. You can also specify optional settings such as quality (e.g., low, medium, high, standard, or hd), size (horizontal, vertical, or square), and whether the background should be transparent. For example, you could tell BigManage: “Create a high-quality square image of a futuristic city at sunset.”
 ### Generating an image from an image reference
-> description
+> Provide a description of the new image you want to create and attach a reference image. You can also specify optional settings like quality, size, and transparent background. For example, you could tell BigManage: “Create a vertical image of a character similar to this reference image, with a futuristic background.”
 ### Creating a non-image file
-> description
+> Provide the file name, format, and content you want to create. You can also indicate if the file is an image (for validation) or if you want to modify an existing file. Optional user instructions can guide how the file should be created. For example, you could tell BigManage: “Create a text file named ‘Report.txt’ with the content ‘Quarterly sales increased by 15%’.”
 ### Modifying a non-image file
-> description
+> Provide instructions on how to modify the contents of an existing file. For example, you could tell BigManage: “Update the text file ‘Report.txt’ to include ‘Quarterly profits increased by 20%’ at the end of the document.”
 ### Uploading attachments
-> description
+> BigManage lets you upload files like images, audio, documents, and more along with your messages. Keep in mind that the types of files you can upload may vary depending on the platform you’re using—some platforms support more file types than others. For example, you could tell BigManage: “Upload this image and attach the PDF report to the message.”
 ### Finding uploaded/created attachments
-> description
+> Provide keywords to search for attachments and specify the type of file you want (attachments, image, document, audio, or video). You can also indicate whether to search among uploaded files, created files, or both. For example, you could tell BigManage: “Find all documents containing ‘Quarterly Report’ that were created by the team” or “Search for images with the keyword ‘Logo’ among uploaded files.”
 
 ## Links
 ##### Links store and organize external resources connected to the company, positions, employees or in general.
 ### Studying a link
-> description
+> Provide the link or URL you want BigManage to study, and include an answer if there’s a specific question related to it. For example, you could tell BigManage: “Study this URL: https://example.com and summarize the main points” or “Analyze this link and answer question 3 regarding its content.”
 ### Adding to the company's links
 > Provide the URL and a reference name for the link. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a link called ‘Company Website’ with URL ‘https://example.com’ because it is the official website.”
 ### Removing from the company's links
