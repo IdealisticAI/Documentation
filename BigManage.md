@@ -105,46 +105,45 @@
 ### Adding to the company's purpose
 > Provide the content you want to add to the company’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s purpose: ‘Become the leading provider of eco-friendly products in the market.’”
 ### Removing from the company's purpose
-> description
+> Specify the content you want to remove from the company’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the company’s purpose the goal ‘Become the leading provider of eco-friendly products in the market’ because the strategy has shifted.”
 ### Adding to a position's purpose
 > Provide the content you want to add to the position’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the purpose of the position ‘Sales Team’: ‘Maintain high client satisfaction as an ongoing goal.’”
 ### Removing from a position's purpose
-> description
+> Specify the content you want to remove from the position’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the purpose of the position ‘Sales Team’ the goal ‘Maintain high client satisfaction as an ongoing goal’ because the company’s priorities have changed.”
 ### Adding to an employee's purpose
 > Provide the content you want to add to the employee’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the purpose of the employee ‘John Doe’: ‘Ensure accuracy in all client reports consistently.’”
 ### Removing from an employee's purpose
-> description
+> Specify the content you want to remove from the employee’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the purpose of the employee ‘John Doe’ the goal ‘Ensure accuracy in all client reports consistently’ because his role has changed.”
 
 ## Past
 ##### The past is a record of important facts about the company, positions or employees, typically from before they started using BigManage or from before an employee joined the company.
-### part1
 ### Adding to the company's past
 > Provide the content you want to add to the company’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s past: ‘Launched new product line in 2021.’”
 ### Removing from the company's past
-> description
+> Specify the entry you want to remove from the company’s past and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the company’s past the entry ‘Launched new product line in 2021’ because it was recorded incorrectly.”
 ### Adding to a position's past
 > Provide the content you want to add to the position’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the past of the position ‘Sales Team’: ‘Won the regional sales award in 2023.’”
 ### Removing from a position's past
-> description
+> Specify the entry you want to remove from the position’s past and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the past of the position ‘Sales Team’ the entry ‘Won the regional sales award in 2023’ because it was recorded incorrectly.”
 ### Adding to an employee's past
 > Provide the content you want to add to the employee’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the past of the employee ‘John Doe’: ‘Completed leadership training in 2022.’”
 ### Removing from an employee's past
-> description
+> Specify the entry you want to remove from the employee’s past and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the past of the employee ‘John Doe’ the entry ‘Completed leadership training in 2022’ because it was entered by mistake.”
 
 ## Instructions
 ##### Instructions are guidelines or directions that can be given to the company, positions or employees.
 ### Adding to the company's instructions
 > Provide the instruction you want to add to the company. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s instructions: ‘All outgoing invoices must be approved by the finance manager.’”
 ### Removing from the company's instructions
-> description
+> Specify the instruction you want to remove from the company and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the company’s instructions the instruction ‘All outgoing invoices must be approved by the finance manager’ because the process has changed.”
 ### Adding to a position's instructions
 > Provide the instruction you want to add to the position. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the position ‘Sales Team’: ‘Always follow the client onboarding checklist.’”
 ### Removing from a position's instructions
-> description
+> Specify the instruction you want to remove from the position and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the instructions of the position ‘Sales Team’ the instruction ‘Always follow the client onboarding checklist’ because it has been updated.”
 ### Adding to an employee's instructions
 > Provide the instruction you want to add to the employee. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the employee ‘John Doe’: ‘Always submit expense reports within the first week of the month.’”
 ### Removing from an employee's instructions
-> description
+> Specify the instruction you want to remove from the employee and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the instructions of the employee ‘John Doe’ the instruction ‘Always submit expense reports within the first week of the month’ because the policy has changed.”
 
 ## Attachments
 ##### Attachments let you create, upload, and manage files or images related to the company.
