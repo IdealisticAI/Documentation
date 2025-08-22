@@ -1,14 +1,16 @@
 ## Company
-##### brief description
-### Creating a company
+##### To start using BigManage, you’ll need to create a company. This will be the main space where all your future content is organized and managed.
+### Creating your first company
 > description
-### Renaming your company
+### Creating more companies
 > description
-### Requesting to join a company
+### Renaming a company
+> description
+### Requesting to join someone's company
 > description
 
 ## Employees
-##### brief description
+##### Each company on BigManage is made up of employees who use it regularly to manage their work.
 ### Adding employees manually
 > description
 ### Adding employees via request
@@ -17,7 +19,7 @@
 > You cannot remove employees once they have joined the company. You can only manage their 'General Access' moving forward.
 
 ## Positions
-##### brief description
+##### Employees can have no position, a single position, or multiple positions, which define their role and level in the company’s hierarchy.
 ### Creating a position
 > description
 ### Renaming a position
@@ -80,7 +82,7 @@
 > description
 
 ## Preferred Language
-##### You do not need to set your preferred language. Our software will always attempt to follow the last language you used when chatting with it.
+##### You do not need to set your preferred language. BigManage will always attempt to follow the last language you used when chatting with it.
 
 ## Voice Replies
 ##### brief description
