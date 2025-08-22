@@ -271,14 +271,14 @@ Introducing BigManage by Idealistic AI...
 > Open the currently selected case. You can also explain why the case is being opened. For example, you could tell BigManage: “Open the selected case because new problems have arisen” or “Open the selected case due to an urgent support request.”
 ### Closing the selected case
 > Close the currently selected case. You can also explain why the case is being closed. For example, you could tell BigManage: “Close the selected case because the issue has been resolved” or “Close the selected case due to completion of all related tasks.”
-### Add a comment on the selected case
-> description
-### Remove a comment from the selected case
-> description
-### Attaching an employee to the selected case
-> description
-### Detaching an employee from the selected case
-> description
+### Adding a comment on the selected case
+> Add a comment to the currently selected case by specifying the text of your comment. For example, you could tell BigManage: “Add comment ‘Reviewed financial projections’ to the selected case.”
+### Removing a comment from the selected case
+> Remove a comment from the currently selected case by specifying the comment ID. For example, you could tell BigManage: “Remove comment 42 from the selected case.”
+### Adding an employee to the selected case
+> Add a user to the participants of the currently selected case by specifying their account name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Add employee 1023 to the selected case with justification: project requirement.”
+### Removing an employee from the selected case
+> Remove a user from the participants of the currently selected case by specifying their account name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Remove employee 1023 from the selected case with justification: reassignment.”
 ### Attaching a customer to the selected case
 > description
 ### Detaching a customer from the selected case
@@ -298,11 +298,11 @@ Introducing BigManage by Idealistic AI...
 > Open the currently selected target. You can also explain why the target is being opened. For example, you could tell BigManage: “Open the selected target because it is now a priority” or “Open the selected target due to upcoming deadlines.”
 ### Closing the selected target
 > Close the currently selected target. You can also explain why the target is being closed. For example, you could tell BigManage: “Close the selected target because it has been achieved” or “Close the selected target due to project completion.”
-### Attaching an employee to the selected target
-> description
-### Detaching an employee from the selected target
-> description
+### Adding an employee to the selected target
+> Add an employee to the currently selected target by specifying their name, email or ID. You can also explain why the employee is being added. For example, you could tell BigManage: “Add employee John Doe to the selected target because they are responsible for this task” or “Add employee 1023 to the selected target to assist with completion.”
+### Removing an employee from the selected target
+> Remove an employee from the currently selected target by specifying their name, email or ID. You can also explain why the employee is being removed. For example, you could tell BigManage: “Remove employee John Doe from the selected target because their assignment is complete” or “Remove employee 1023 from the selected target due to reassignment.”
 ### Attaching a case to the selected target
-> description
+> Attach a case to the currently selected target by specifying the case name or ID. You can also explain why the case is being attached. For example, you could tell BigManage: “Attach case ‘Q2 Sales Report’ to the selected target because it is relevant to achieving this goal” or “Attach case 305 to the selected target for tracking purposes.”
 ### Detaching a case from the selected target
-> description
+> Remove a case from the currently selected target by specifying the case name or ID. You can also explain why the case is being detached. For example, you could tell BigManage: “Detach case ‘Q2 Sales Report’ from the selected target because it is no longer relevant” or “Detach case 305 from the selected target for reassignment.”
