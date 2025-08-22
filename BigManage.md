@@ -280,13 +280,13 @@ Introducing BigManage by Idealistic AI...
 ### Removing an employee from the selected case
 > Remove a user from the participants of the currently selected case by specifying their account name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Remove employee 1023 from the selected case with justification: reassignment.”
 ### Attaching a customer to the selected case
-> description
+> Attach a customer to the currently selected case by specifying the customer’s name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach customer 5021 to the selected case with justification: important update.”
 ### Detaching a customer from the selected case
-> description
+> Remove a customer from the currently selected case by specifying the customer’s name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach customer 5021 from the selected case with justification: no longer relevant.”
 ### Attaching a goods & service to the selected case
-> description
+> Attach a goods or service item to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach goods/service 305 to the selected case with justification: needed for resolution.”
 ### Detaching a goods & service from the selected case
-> description
+> Remove a goods or service item from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach goods/service 305 from the selected case with justification: no longer relevant.”
 
 ## Targets
 ##### Targets represent goals or objectives linked to cases of the company.
