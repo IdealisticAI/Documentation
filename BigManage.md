@@ -76,9 +76,9 @@
 ## Managers
 ##### Managers have greater control over the company, allowing them to oversee employees, positions, and settings. Specifically, they can perform actions such as creating positions and departments, managing general access, adjusting time access, and all other company-wide actions.
 ### Promoting an employee to manager
-> description
+> Specify the employee you want to promote by their ID, name, or email. You can also explain why the promotion is being made. For example, you could tell BigManage: “Promote employee 1023 to manager because they successfully led the recent project” or “Make Jane Doe a manager due to her excellent performance and leadership skills.”
 ### Demoting an employee from manager
-> description
+> Specify the employee you want to demote by their ID, name, or email. You can also explain why the demotion is being made. For example, you could tell BigManage: “Demote employee 1023 from manager because they are changing roles” or “Remove Jane Doe’s manager status due to restructuring within the department.”
 
 ## Timezone
 ##### The timezone determines how time is calculated for each employee, making it easy to track events and answer questions like ‘How long ago did this happen?’
@@ -96,13 +96,13 @@
 ## Reminders
 ##### Reminders notify the company, specific positions or individual employees about important tasks or events. They can be set to occur once, multiple times or on a regular schedule.
 ### Creating a reminder for the company
-> description
+> Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Monthly Report’ to start in 60 seconds, repeat every 3600 seconds because the report is due” or “Set a reminder ‘Company Meeting’ to start in 86400 seconds, repeating daily because of the weekly meeting schedule.”
 ### Creating a reminder for one or multiple positions
-> description
+> Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. Identify the positions by their ID or name. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Quarterly Report’ for the Finance Manager position to start in 60 seconds, repeat every 3600 seconds because the report is due” or “Set a reminder ‘Team Meeting’ for the Support and Sales positions to start in 120 seconds, repeating daily because of project updates.”
 ### Creating a reminder for one or multiple employees
-> description
+> Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. Identify the employees by their ID, name, or email. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Submit Timesheet’ for employee 1023 to start in 60 seconds, repeat every 3600 seconds because the deadline is approaching” or “Set a reminder ‘Update Profile’ for employees Jane Doe and John Smith to start in 120 seconds, repeating daily because of HR requirements.”
 ### Deleting a reminder
-> description
+> Specify the reminder you want to remove by its ID or name. You can also explain why the reminder should be deleted. For example, you could tell BigManage: “Delete the reminder ‘Monthly Report’ because it is no longer relevant” or “Remove reminder 12 because the event was cancelled.”
 
 ## Purpose
 ##### The purpose defines the future direction for the company, positions or employees.
