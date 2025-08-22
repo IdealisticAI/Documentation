@@ -1,21 +1,25 @@
 ## Company
 ##### To start using BigManage, you’ll need to create or join a company. This will be the main space where all your future content is organized and managed.
 ### Creating your first company
-> description
+> Creating your first company on BigManage is simple and seamless. As you input your initial data, the system automatically sets up your company for you and guides you through each step, so you don’t need to worry about this part.
 ### Creating more companies
 > description
-### Renaming a company
+### Changing between the companies you are part of
 > description
+### Transfering a company you own
+> description
+### Renaming the company
+> Change the name of your company by specifying the new name. You can refer to the company by its current name or ID if needed. For example, you could tell BigManage: “Rename the company to ‘NextGen Solutions’” or “Change my team’s name to ‘Innovators Inc.’”
 ### Requesting to join someone's company
-> description
+> Submit a request to join a company by specifying the company’s name or ID. You must later wait for them to accept or reject the request. Optionally, you can provide a justification. For example, you could tell BigManage: “Request to join the company ‘TechCorp’”.
 
 ## Employees
 ##### Each company on BigManage is made up of employees who use it regularly to manage their work. Employees may be notified on the last platform they used, depending on the action of another employee.
-### Adding employees manually
-> description
-### Adding employees via request
-> description
-### Removing employees
+### Adding employees to the company
+> Add a new employee to your company by providing their email address. BigManage will find or create the employee based on the email. For example, you could tell BigManage: “Add a new employee with email john.doe@example.com” or “Invite sara.smith@example.com to join the company”.
+### Adding employees by accepting their request
+> Accept an employee’s request to join the company by specifying the company’s name or ID. You can optionally provide a justification for the acceptance. For example, you could tell BigManage: “Accept Jane Doe’s request to join the company” or “Approve the join request of the employee with email john@example.com, justification: team expansion.”
+### Removing employees from the company
 > You cannot remove employees once they have joined the company. You can only manage their 'General Access' moving forward.
 
 ## Positions
