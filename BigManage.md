@@ -45,11 +45,11 @@
 ## Departments
 ##### Departments group positions under broader categories, making it easier to organize and manage teams.
 ### Creating a department
-> description
+> Specify the name of the department you want to create. For example, you could tell BigManage: “Create a new department called ‘Marketing’” or “Add a department named ‘Research & Development’.”
 ### Renaming a department
-> description
+> Specify the department you want to rename by its ID or current name, and provide the new name. For example, you could tell BigManage: “Rename department 3 to ‘Customer Success’” or “Change the name of department ‘Support’ to ‘Client Relations’.”
 ### Deleting a department
-> description
+> Specify the department you want to remove by its ID or name. You can also explain why it should be deleted. For example, you could tell BigManage: “Remove the department ‘Marketing’ because it was merged with Sales” or “Delete department 7 due to restructuring.”
 ### Assigning a position to a department
 > description
 ### Unassigning a position from a department
@@ -58,20 +58,20 @@
 ## General Access
 ##### General access controls what employees, positions or the entire company can do by default. For example, it can allow full access, block access entirely while hiding past information or block access while keeping past information visible to other employees.
 ### Managing the company's general access
-> description
+> Modify the company’s general access level by specifying the desired access (e.g., full access or no access). You can also optionally provide a justification for the change. For example, you could tell BigManage: “Set general access to full access” or “Revoke general access with justification: security concerns.”
 ### Managing a position's general access
-> description
+> Modify the general access level of a specific position by specifying the position’s ID and the desired access (e.g., full access or no access). You can also optionally provide a justification for the change. For example, you could tell BigManage: “Set access for the Finance Manager position to full access” or “Revoke access for the Junior Developer position with justification: security reasons.”
 ### Managing an employee's general access
-> description
+> Modify the general access level of a specific employee by specifying the employee’s ID and the desired access type—such as no access, past access (historical retention), or full access. You can also optionally provide a justification for the change. For example, you could tell BigManage: “Grant full access to employee 1023” or “Revoke access for employee 2045 with justification: project reassignment.”
 
 ## Time Access
 ##### Time access sets limits on when employees, positions or the company can perform certain actions.
 ### Managing the company's time access
-> description
+> Specify the start and end times (hours and minutes) for the company’s default access. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the company’s time access from 08:00 to 18:00 because of updated working hours” or “Change the company’s access to 09:00–17:00 due to shift adjustments.”
 ### Managing a position's time access
-> description
+> Specify the start and end times (hours and minutes) for a position’s access. Identify the position by its ID or name. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the time access of position ‘Sales Team’ from 09:30 to 17:45 because of a project deadline” or “Change the time access of position 5 to 08:00–16:00 due to shift adjustments.”
 ### Managing an employee's time access
-> description
+> Specify the employee by their ID, name, or email and set their access level. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the access level of employee 1023 to full access because they are leading a critical project” or “Change the access of employee ‘Jane Doe’ to limited access due to role change.”
 
 ## Managers
 ##### Managers have greater control over the company, allowing them to oversee employees, positions, and settings. Specifically, they can perform actions such as creating positions and departments, managing general access, adjusting time access, and all other company-wide actions.
