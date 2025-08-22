@@ -1,5 +1,5 @@
 ## Company
-##### To start using BigManage, you’ll need to create a company. This will be the main space where all your future content is organized and managed.
+##### To start using BigManage, you’ll need to create or join a company. This will be the main space where all your future content is organized and managed.
 ### Creating your first company
 > description
 ### Creating more companies
@@ -32,14 +32,14 @@
 > description
 
 ## Hierarchy
-##### brief description
+##### The hierarchy defines how positions and employees are structured within the company, showing who reports to whom.
 ### Managing an employee's hierarchy
 > description
 ### Managing a position's hierarchy
 > description
 
 ## Departments
-##### brief description
+##### Departments group positions under broader categories, making it easier to organize and manage teams.
 ### Creating a department
 > description
 ### Renaming a department
@@ -52,7 +52,7 @@
 > description
 
 ## General Access
-##### brief description
+##### General access controls what employees, positions, or the whole company can do by default.
 ### Managing the company's general access
 > description
 ### Managing a position's general access
@@ -61,7 +61,7 @@
 > description
 
 ## Time Access
-##### brief description
+##### Time access sets limits on when employees, positions, or the company can perform certain actions.
 ### Managing the company's time access
 > description
 ### Managing a position's time access
@@ -70,14 +70,14 @@
 > description
 
 ## Managers
-##### brief description
+##### Managers have higher control over the company, allowing them to oversee employees, positions, and settings.
 ### Promoting an employee to manager
 > description
 ### Demoting an employee from manager
 > description
 
 ## Timezone
-##### brief description
+##### The timezone defines when events, reminders, and activities are scheduled for the company.
 ### Changing your timezone
 > description
 
@@ -85,23 +85,23 @@
 ##### You do not need to set your preferred language. BigManage will always attempt to follow the last language you used when chatting with it.
 
 ## Voice Replies
-##### brief description
+##### Voice replies let BigManage respond with spoken messages instead of only text.
 ### Toggling voice replies
 > description
 
 ## Reminders
-##### brief description
+##### Reminders help keep track of important tasks, deadlines, and goals across the company.
 ### Creating a reminder for the company
 > description
 ### Creating a reminder for one or multiple positions
 > description
 ### Creating a reminder for one or multiple employees
 > description
-### Deleting a reminder 
+### Deleting a reminder
 > description
 
 ## Purpose
-##### brief description
+##### The purpose defines the goals and objectives for the company, positions, or employees.
 ### Adding to the company's purpose
 > description
 ### Removing from the company's purpose
@@ -116,7 +116,7 @@
 > description
 
 ## Past
-##### brief description
+##### The past stores records of events, actions, and notes related to the company, positions, or employees.
 ### part1
 ### Adding to the company's past
 > description
@@ -132,7 +132,7 @@
 > description
 
 ## Instructions
-##### brief description
+##### Instructions are guidelines or directions that can be given to the company, positions, or employees.
 ### Adding to the company's instructions
 > description
 ### Removing from the company's instructions
@@ -147,7 +147,7 @@
 > description
 
 ## Attachments
-##### brief description
+##### Attachments let you create, upload, and manage files or images related to the company.
 ### Generating an image
 > description
 ### Generating an image from an image reference
@@ -162,7 +162,7 @@
 > description
 
 ## Links
-##### brief description
+##### Links store and organize external resources connected to the company, positions, or employees.
 ### Studying a link
 > description
 ### Adding to the company's links
@@ -179,7 +179,7 @@
 > description
 
 ## Emails
-##### brief description
+##### Emails store company-wide or individual addresses for communication and record-keeping.
 ### Adding to the company's emails
 > description
 ### Removing from the company's emails
@@ -194,7 +194,7 @@
 > description
 
 ## Phone Numbers
-##### brief description
+##### Phone numbers are stored for company, position, or employee contact details.
 ### Adding to the company's phone numbers
 > description
 ### Removing from the company's phone numbers
@@ -209,7 +209,7 @@
 > description
 
 ## Fax Numbers
-##### brief description
+##### Fax numbers can be added and managed for the company, positions, or employees when needed.
 ### Adding to the company's fax numbers
 > description
 ### Removing from the company's fax numbers
@@ -224,8 +224,8 @@
 > description
 
 ## Physical Addresses
-##### brief description
-### Adding to the company's fax physical addresses
+##### Physical addresses record the locations of the company, positions, or employees.
+### Adding to the company's physical addresses
 > description
 ### Removing from the company's physical addresses
 > description
@@ -239,7 +239,7 @@
 > description
 
 ## Customers
-##### brief description
+##### Customers represent the clients or partners your company works with.
 ### Creating a customer
 > description
 ### Renaming a customer
@@ -248,7 +248,7 @@
 > description
 
 ## Goods & Services
-##### brief description
+##### Goods and services represent the products or offerings your company provides.
 ### Creating a goods & service
 > description
 ### Renaming a goods & service
@@ -257,7 +257,7 @@
 > description
 
 ## Cases
-##### brief description
+##### Cases are records of issues, tasks, or projects that involve employees, customers, or goods & services.
 ### Opening a case
 > description
 ### Closing a case
@@ -280,7 +280,7 @@
 > description
 
 ## Targets
-##### brief description
+##### Targets represent goals or objectives linked to employees, cases, or other elements of the company.
 ### Opening a target
 > description
 ### Closing a target
@@ -295,5 +295,3 @@
 > description
 ### Detaching a case from a target
 > description
-
-
