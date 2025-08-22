@@ -103,15 +103,15 @@
 ## Purpose
 ##### The purpose defines the future direction for the company, positions or employees.
 ### Adding to the company's purpose
-> description
+> Provide the content you want to add to the company’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s purpose: ‘Become the leading provider of eco-friendly products in the market.’”
 ### Removing from the company's purpose
 > description
 ### Adding to a position's purpose
-> description
+> Provide the content you want to add to the position’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the purpose of the position ‘Sales Team’: ‘Maintain high client satisfaction as an ongoing goal.’”
 ### Removing from a position's purpose
 > description
 ### Adding to an employee's purpose
-> description
+> Provide the content you want to add to the employee’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the purpose of the employee ‘John Doe’: ‘Ensure accuracy in all client reports consistently.’”
 ### Removing from an employee's purpose
 > description
 
@@ -119,30 +119,30 @@
 ##### The past is a record of important facts about the company, positions or employees, typically from before they started using BigManage or from before an employee joined the company.
 ### part1
 ### Adding to the company's past
-> description
+> Provide the content you want to add to the company’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s past: ‘Launched new product line in 2021.’”
 ### Removing from the company's past
 > description
 ### Adding to a position's past
-> description
+> Provide the content you want to add to the position’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the past of the position ‘Sales Team’: ‘Won the regional sales award in 2023.’”
 ### Removing from a position's past
 > description
 ### Adding to an employee's past
-> description
+> Provide the content you want to add to the employee’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the past of the employee ‘John Doe’: ‘Completed leadership training in 2022.’”
 ### Removing from an employee's past
 > description
 
 ## Instructions
 ##### Instructions are guidelines or directions that can be given to the company, positions or employees.
 ### Adding to the company's instructions
-> description
+> Provide the instruction you want to add to the company. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s instructions: ‘All outgoing invoices must be approved by the finance manager.’”
 ### Removing from the company's instructions
 > description
 ### Adding to a position's instructions
-> description
+> Provide the instruction you want to add to the position. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the position ‘Sales Team’: ‘Always follow the client onboarding checklist.’”
 ### Removing from a position's instructions
 > description
 ### Adding to an employee's instructions
-> description
+> Provide the instruction you want to add to the employee. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the employee ‘John Doe’: ‘Always submit expense reports within the first week of the month.’”
 ### Removing from an employee's instructions
 > description
 
