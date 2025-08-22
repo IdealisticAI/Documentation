@@ -3,11 +3,11 @@
 ### Creating your first company
 > Creating your first company on BigManage is simple and seamless. As you input your initial data, the system automatically sets up your company for you and guides you through each step, so you don’t need to worry about this part.
 ### Creating more companies
-> description
+> Create a new company by specifying its name. For example, you could tell BigManage: “Create a company named HorizonTech” or “Add a new company called Stellar Innovations.”
 ### Changing between the companies you are part of
-> description
+> Switch from one company you own to another by specifying the company’s name or ID. For example, you could tell BigManage: “Switch to company AlphaCorp” or “Change active company to ID 42.”
 ### Transfering a company you own
-> description
+> Transfer ownership of the company to another employee by specifying their employee ID, name, or email. You can optionally provide a justification and include the verification code sent to the current owner’s email. For example, you could tell BigManage: “Transfer company ownership to John” or “Assign ownership to jane.smith@example.com with justification: leaving the company.”
 ### Renaming the company
 > Change the name of your company by specifying the new name. You can refer to the company by its current name or ID if needed. For example, you could tell BigManage: “Rename the company to ‘NextGen Solutions’” or “Change my team’s name to ‘Innovators Inc.’”
 ### Requesting to join someone's company
