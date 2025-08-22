@@ -1,4 +1,18 @@
-### Introducing BigManage by Idealistic AI – the next-generation software that transforms company communication. Using advanced AI, BigManage intelligently extracts and organizes information straight from user chat prompts—no menus, buttons, or complicated interfaces needed. Enjoy effortless, seamless collaboration across your favorite platforms, including Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and email.
+## Introducing BigManage by Idealistic AI – the next-generation software that transforms company communication. Using advanced AI, BigManage intelligently extracts and organizes information straight from user chat prompts—no menus, buttons, or complicated interfaces needed. Enjoy effortless, seamless collaboration across your favorite platforms, including Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and email.
+### Easy Adoption
+> description
+### Quick Learning
+> description
+### Maximum Utility
+> description
+### Low Cost
+> description
+### High Security
+> description
+### Daily Support
+> description
+### Proper Scalability
+> description
 
 ## Company
 ##### To start using BigManage, you’ll need to create or join a company. This will be the main space where all your future content is organized and managed.
