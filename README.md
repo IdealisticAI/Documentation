@@ -10,7 +10,7 @@
 > description
 
 ## Employees
-##### Each company on BigManage is made up of employees who use it regularly to manage their work.
+##### Each company on BigManage is made up of employees who use it regularly to manage their work. Employees may be notified on the last platform they used, depending on the action of another employee.
 ### Adding employees manually
 > description
 ### Adding employees via request
@@ -70,7 +70,7 @@
 > description
 
 ## Managers
-##### Managers have greater control over the company, allowing them to oversee employees, positions, and settings. Specifically, they can perform company-wide actions such as creating positions and departments, managing general access, adjusting time access, and more.
+##### Managers have greater control over the company, allowing them to oversee employees, positions, and settings. Specifically, they can perform actions such as creating positions and departments, managing general access, adjusting time access, and all other company-wide actions.
 ### Promoting an employee to manager
 > description
 ### Demoting an employee from manager
@@ -101,7 +101,7 @@
 > description
 
 ## Purpose
-##### The purpose defines the goals and objectives for the company, positions or employees.
+##### The purpose defines the future direction for the company, positions or employees.
 ### Adding to the company's purpose
 > description
 ### Removing from the company's purpose
@@ -116,7 +116,7 @@
 > description
 
 ## Past
-##### The past keeps a record of important facts about the company, positions, or employees, typically from before they started using BigManage or from before an employee joined the company.
+##### The past is a record of important facts about the company, positions or employees, typically from before they started using BigManage or from before an employee joined the company.
 ### part1
 ### Adding to the company's past
 > description
