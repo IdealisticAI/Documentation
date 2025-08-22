@@ -55,7 +55,7 @@
 ### Assigning a position to a department
 > Specify the position by its ID or name and the department by its ID or name to attach the position. For example, you could tell BigManage: “Assign the Finance Manager position to the Accounting department” or “Attach position 5 to department 3.”
 ### Unassigning a position from a department
-> Specify the position you want to detach by its ID or name. You can also explain why the position is being removed from the department. For example, you could tell BigManage: “Remove the Finance Manager position from the Accounting department because of restructuring” or “Unassign position 5 from its department due to role changes.”
+> Specify the position you want to detach by its ID or name. You can also explain why the position is being removed from the department. For example, you could tell BigManage: “Remove the Finance Manager position from the Accounting department because of restructuring” or “Unassign position 5 from its department due to position changes.”
 
 ## General Access
 ##### General access controls what employees, positions or the entire company can do by default. For example, it can allow full access, block access entirely while hiding past information or block access while keeping past information visible to other employees.
@@ -73,14 +73,14 @@
 ### Managing a position's time access
 > Specify the start and end times (hours and minutes) for a position’s access. Identify the position by its ID or name. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the time access of position ‘Sales Team’ from 09:30 to 17:45 because of a project deadline” or “Change the time access of position 5 to 08:00–16:00 due to shift adjustments.”
 ### Managing an employee's time access
-> Specify the employee by their ID, name, or email and set their access level. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the access level of employee 1023 to full access because they are leading a critical project” or “Change the access of employee ‘Jane Doe’ to limited access due to role change.”
+> Specify the employee by their ID, name, or email and set their access level. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the access level of employee 1023 to full access because they are leading a critical project” or “Change the access of employee ‘Jane Doe’ to limited access due to position change.”
 
 ## Managers
 ##### Managers have greater control over the company, allowing them to oversee employees, positions, and settings. Specifically, they can perform actions such as creating positions and departments, managing general access, adjusting time access, and all other company-wide actions.
 ### Promoting an employee to manager
 > Specify the employee you want to promote by their ID, name, or email. You can also explain why the promotion is being made. For example, you could tell BigManage: “Promote employee 1023 to manager because they successfully led the recent project” or “Make Jane Doe a manager due to her excellent performance and leadership skills.”
 ### Demoting an employee from manager
-> Specify the employee you want to demote by their ID, name, or email. You can also explain why the demotion is being made. For example, you could tell BigManage: “Demote employee 1023 from manager because they are changing roles” or “Remove Jane Doe’s manager status due to restructuring within the department.”
+> Specify the employee you want to demote by their ID, name, or email. You can also explain why the demotion is being made. For example, you could tell BigManage: “Demote employee 1023 from manager because they are changing positions” or “Remove Jane Doe’s manager status due to restructuring within the department.”
 
 ## Timezone
 ##### The timezone determines how time is calculated for each employee, making it easy to track events and answer questions like ‘How long ago did this happen?’
@@ -119,7 +119,7 @@
 ### Adding to an employee's purpose
 > Provide the content you want to add to the employee’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the purpose of the employee ‘John Doe’: ‘Ensure accuracy in all client reports consistently.’”
 ### Removing from an employee's purpose
-> Specify the content you want to remove from the employee’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the purpose of the employee ‘John Doe’ the goal ‘Ensure accuracy in all client reports consistently’ because his role has changed.”
+> Specify the content you want to remove from the employee’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the purpose of the employee ‘John Doe’ the goal ‘Ensure accuracy in all client reports consistently’ because his position has changed.”
 
 ## Past
 ##### The past is a record of important facts about the company, positions or employees, typically from before they started using BigManage or from before an employee joined the company.
@@ -158,13 +158,13 @@
 ### Generating an image from an image reference
 > Provide a description of the new image you want to create and attach a reference image. You can also specify optional settings like quality, size, and transparent background. For example, you could tell BigManage: “Create a vertical image of a character similar to this reference image, with a futuristic background.”
 ### Creating a non-image file
-> Provide the file name, format, and content you want to create. You can also indicate if the file is an image (for validation) or if you want to modify an existing file. Optional user instructions can guide how the file should be created. For example, you could tell BigManage: “Create a text file named ‘Report.txt’ with the content ‘Quarterly sales increased by 15%’.”
+> Provide the file name, format, and content you want to create. You can also indicate if the file is an image (for validation) or if you want to modify an existing file. Optional instructions can guide how the file should be created. For example, you could tell BigManage: “Create a text file named ‘Report.txt’ with the content ‘Quarterly sales increased by 15%’.”
 ### Modifying a non-image file
 > Provide instructions on how to modify the contents of an existing file. For example, you could tell BigManage: “Update the text file ‘Report.txt’ to include ‘Quarterly profits increased by 20%’ at the end of the document.”
 ### Uploading attachments
 > BigManage lets you upload files like images, audio, documents, and more along with your messages. Keep in mind that the types of files you can upload may vary depending on the platform you’re using—some platforms support more file types than others. For example, you could tell BigManage: “Upload this image and attach the PDF report to the message.”
 ### Finding uploaded/created attachments
-> Provide keywords to search for attachments and specify the type of file you want (attachments, image, document, audio, or video). You can also indicate whether to search among uploaded files, created files, or both. For example, you could tell BigManage: “Find all documents containing ‘Quarterly Report’ that were created by the team” or “Search for images with the keyword ‘Logo’ among uploaded files.”
+> Provide keywords to search for attachments and specify the type of file you want (attachments, image, document, audio, or video). You can also indicate whether to search among uploaded files, created files, or both. For example, you could tell BigManage: “Find all documents containing ‘Quarterly Report’ that were created by the company” or “Search for images with the keyword ‘Logo’ among uploaded files.”
 
 ## Links
 ##### Links store and organize external resources connected to the company, positions, employees or in general.
@@ -276,9 +276,9 @@
 ### Removing a comment from the selected case
 > Remove a comment from the currently selected case by specifying the comment ID. For example, you could tell BigManage: “Remove comment 42 from the selected case.”
 ### Adding an employee to the selected case
-> Add a user to the participants of the currently selected case by specifying their account name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Add employee 1023 to the selected case with justification: project requirement.”
+> Add an employee to the participants of the currently selected case by specifying their name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Add employee 1023 to the selected case with justification: project requirement.”
 ### Removing an employee from the selected case
-> Remove a user from the participants of the currently selected case by specifying their account name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Remove employee 1023 from the selected case with justification: reassignment.”
+> Remove an employee from the participants of the currently selected case by specifying their name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Remove employee 1023 from the selected case with justification: reassignment.”
 ### Attaching a customer to the selected case
 > Attach a customer to the currently selected case by specifying the customer’s name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach customer 5021 to the selected case with justification: important update.”
 ### Detaching a customer from the selected case
