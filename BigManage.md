@@ -226,17 +226,17 @@
 ## Physical Addresses
 ##### Physical addresses record the locations of the company, positions or employees.
 ### Adding to the company's physical addresses
-> description
+> Provide a reference name for the address and the address itself. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a physical address called ‘Head Office’ with address ‘123 Main Street, Athens’ because it’s the new company headquarters.”
 ### Removing from the company's physical addresses
-> description
+> Indicate which physical address to remove, optionally including a justification. You can refer to the address by its reference name or a number pointer if there are multiple addresses. For example, you could tell BigManage: “Remove the physical address called ‘Head Office’ because the company has relocated.”
 ### Adding to a position's physical addresses
-> description
+> Provide a reference name for the address and the address itself. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or, if you prefer, its ID. For example, you could tell BigManage: “Add a physical address called ‘Head Office’ with address ‘123 Main Street, Athens’ to the position ‘Sales Team’ because it’s the new office location.”
 ### Removing from a position's physical addresses
-> description
+> Specify the position by name or ID and indicate which physical address to remove, optionally including a justification. You can refer to the address by its reference name or a number pointer if there are multiple addresses. For example, you could tell BigManage: “Remove the physical address called ‘Head Office’ from the position ‘Sales Team’ because it is no longer used.”
 ### Adding to an employee's physical addresses
-> description
+> Provide a reference name for the address and the address itself. You can also include an optional justification explaining why it’s being added. Refer to the employee by name, email, or ID. For example, you could tell BigManage: “Add a physical address called ‘Home Office’ with address ‘45 Maple Street, Athens’ to the employee ‘John Doe’ because it’s his current work location.”
 ### Removing from an employee's physical addresses
-> description
+> Specify the employee by name, email, or ID and indicate which physical address to remove, optionally including a justification. You can refer to the address by its reference name or a number pointer if there are multiple addresses. For example, you could tell BigManage: “Remove the physical address called ‘Home Office’ from the employee ‘John Doe’ because he no longer works there.”
 
 ## Customers
 ##### Customers represent the clients or partners your company works with.
