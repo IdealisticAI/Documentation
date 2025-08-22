@@ -1,3 +1,5 @@
+Introducing BigManage by Idealistic AI...
+
 ## Company
 ##### To start using BigManage, you’ll need to create or join a company. This will be the main space where all your future content is organized and managed.
 ### Creating your first company
@@ -261,40 +263,46 @@
 
 ## Cases
 ##### Cases are records of issues, tasks or projects that involve employees, customers or goods & services.
-### Opening a case
-> description
-### Closing a case
-> description
+### Creating a case
+> Specify the name of the case you want to open. You can also explain why the case is being created. For example, you could tell BigManage: “Create a case called ‘Client Onboarding Issue’ because of recent delays” or “Open a new case named ‘Server Migration’ due to upcoming infrastructure changes.”
 ### Selecting a case
+> Specify the case you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the case ‘Client Onboarding Issue’ for active tracking” or “Deselect case 12 because it is no longer relevant.”
+### Opening the selected case
+> Open the currently selected case. You can also explain why the case is being opened. For example, you could tell BigManage: “Open the selected case because new problems have arisen” or “Open the selected case due to an urgent support request.”
+### Closing the selected case
+> Close the currently selected case. You can also explain why the case is being closed. For example, you could tell BigManage: “Close the selected case because the issue has been resolved” or “Close the selected case due to completion of all related tasks.”
+### Add a comment on the selected case
 > description
-### Commenting on a case
+### Remove a comment from the selected case
 > description
-### Attaching an employee to a case
+### Attaching an employee to the selected case
 > description
-### Detaching an employee from a case
+### Detaching an employee from the selected case
 > description
-### Attaching a customer to a case
+### Attaching a customer to the selected case
 > description
-### Detaching a customer from a case
+### Detaching a customer from the selected case
 > description
-### Attaching a goods & service to a case
+### Attaching a goods & service to the selected case
 > description
-### Detaching a goods & service from a case
+### Detaching a goods & service from the selected case
 > description
 
 ## Targets
 ##### Targets represent goals or objectives linked to cases of the company.
-### Opening a target
-> description
-### Closing a target
-> description
+### Creating a target
+> Specify the name of the target you want to create. You can also explain why the target is being created. For example, you could tell BigManage: “Create a target called ‘Q3 Sales Goal’ because we need to track performance” or “Open a new target named ‘Website Redesign’ due to upcoming project requirements.”
 ### Selecting a target
+> Specify the target you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the target ‘Q3 Sales Goal’ for active tracking” or “Deselect target 7 because it is no longer relevant.”
+### Opening the selected target
+> Open the currently selected target. You can also explain why the target is being opened. For example, you could tell BigManage: “Open the selected target because it is now a priority” or “Open the selected target due to upcoming deadlines.”
+### Closing the selected target
+> Close the currently selected target. You can also explain why the target is being closed. For example, you could tell BigManage: “Close the selected target because it has been achieved” or “Close the selected target due to project completion.”
+### Attaching an employee to the selected target
 > description
-### Attaching an employee to a target
+### Detaching an employee from the selected target
 > description
-### Detaching an employee from a target
+### Attaching a case to the selected target
 > description
-### Attaching a case to a target
-> description
-### Detaching a case from a target
+### Detaching a case from the selected target
 > description
