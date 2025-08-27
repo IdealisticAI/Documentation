@@ -14,6 +14,16 @@
 ### Proper Scalability
 > BigManage runs on a distributed network of machines, allowing it to scale up or down based on resource demand. This horizontal scalability is a standard in modern business, and we provide it to ensure you’re in safe hands—even when the system is under heavy load.
 
+## Links
+> Official Website: https://www.idealistic.ai/ \
+Instagram Application: https://www.idealistic.ai/instagram \
+Messenger Application: https://www.idealistic.ai/messenger \
+Telegram Application: https://www.idealistic.ai/telegram \
+Discord Application: https://www.idealistic.ai/discord \
+Whatsapp Application: https://www.idealistic.ai/whatsapp \
+Email Application: bigmanage@idealistic.ai \
+Email Support: contact@idealistic.ai
+
 ## Company
 ##### To start using BigManage, you’ll need to create or join a company. This will be the main space where all your future content is organized and managed.
 ### Creating your first company
