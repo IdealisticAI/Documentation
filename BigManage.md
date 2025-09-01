@@ -6,7 +6,7 @@
 ### Maximum Utility
 > Imagine talking to a person—everything you say stimulates different areas of their brain, allowing them to respond in ways that meet your needs. BigManage works the same way. You might not expect so much from a simple chat, but you can. Anything you write is broken down, analyzed, and directed to the right parts of the software—just like having a conversation with a real person.
 ### Low Cost
-> You might expect all this to come at a high price, but at Idealistic AI we’ve made BigManage surprisingly affordable. Companies pay just €300 per month plus an average of less than €0.10 per message, with most never exceeding €399 monthly, while individuals average only €0.20 per message, usually staying under €40. By optimizing resources and automating routine tasks, BigManage helps businesses cut costs, reduce reliance on excess staffing or overtime, and unlock greater efficiency—and long term, BigManage becomes a money saver rather than an extra cost.
+> You might expect all this to come at a high price, but at Idealistic AI we’ve made BigManage surprisingly affordable (Pricing will be discussed upon communication per use-case). By optimizing resources and automating routine tasks, BigManage helps businesses cut costs, reduce reliance on excess staffing or overtime, and unlock greater efficiency—and long term, BigManage becomes a money saver rather than an extra cost.
 ### High Security
 > BigManage transfers your data through trusted platforms and stores it securely in isolated data centers in Germany. We never sell your data, and you don’t trade it for anything else. Your information is kept only for when you need it—otherwise, it remains untouched and completely private.
 ### Daily Support
