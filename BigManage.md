@@ -1,4 +1,4 @@
-## Introducing BigManage by Idealistic AI – the next-generation software that transforms company communication. Using advanced AI, BigManage intelligently extracts and organizes information straight from user chat prompts—no menus, buttons, or complicated interfaces needed. Enjoy effortless, seamless collaboration across your favorite platforms, including Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and email.
+## Introducing BigManage by Idealistic – the next-generation software that transforms company communication. Using advanced AI, BigManage intelligently extracts and organizes information straight from user chat prompts—no menus, buttons, or complicated interfaces needed. Enjoy effortless, seamless collaboration across your favorite platforms, including Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and email.
 ### Easy Adoption
 > BigManage is easily accessible via Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and email. You likely already have an account on one or more of these platforms, so you can start using BigManage instantly—no need to learn a new interface.
 ### Quick Learning
@@ -6,7 +6,7 @@
 ### Maximum Utility
 > Imagine talking to a person—everything you say stimulates different areas of their brain, allowing them to respond in ways that meet your needs. BigManage works the same way. You might not expect so much from a simple chat, but you can. Anything you write is broken down, analyzed, and directed to the right parts of the software—just like having a conversation with a real person.
 ### Low Cost
-> You might expect all this to come at a high price, but at Idealistic AI we’ve made BigManage surprisingly affordable (Pricing will be discussed upon communication per use-case). By optimizing resources and automating routine tasks, BigManage helps businesses cut costs, reduce reliance on excess staffing or overtime, and unlock greater efficiency—and long term, BigManage becomes a money saver rather than an extra cost.
+> You might expect all this to come at a high price, but at Idealistic we’ve made BigManage surprisingly affordable (Pricing will be discussed upon communication per use-case). By optimizing resources and automating routine tasks, BigManage helps businesses cut costs, reduce reliance on excess staffing or overtime, and unlock greater efficiency—and long term, BigManage becomes a money saver rather than an extra cost.
 ### High Security
 > BigManage transfers your data through trusted platforms and stores it securely in isolated data centers in Germany. We never sell your data, and you don’t trade it for anything else. Your information is kept only for when you need it—otherwise, it remains untouched and completely private.
 ### Daily Support
