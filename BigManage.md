@@ -123,6 +123,11 @@ Email Support: contact@idealistic.ai
 ### Toggling voice replies
 > Specify whether you want to enable or disable voice replies. You can explicitly set the status or simply toggle it. For example, you could tell BigManage: “Enable voice replies”, “Disable voice replies”, or “Toggle voice replies.”
 
+## Software Training
+##### Software training allows BigManage to minimize the need for repeated prompts and instead focus directly on the information you provide—whether in text, audio, or file format. This is especially valuable when getting started. By enabling training and supplying key details about your company, BigManage quickly learns and organizes the information for you, saving significant time compared to entering each detail through individual prompts.
+### Toggling software training
+> Specify whether you want to enable or disable software training. You can explicitly set the status or simply toggle it. For example, you could tell BigManage: “Enable software training”, “Disable software training”, or “Toggle software training.”
+
 ## Reminders
 ##### Reminders notify the company, specific positions or individual members about important tasks or events. They can be set to occur once, multiple times or on a regular schedule.
 ### Creating a reminder for the company
