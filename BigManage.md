@@ -57,7 +57,7 @@ Email Support: contact@idealistic.ai
 ### Deleting a position
 > Remove a position from the company by specifying its name or ID. You can optionally provide a justification for the removal. For example, you could tell BigManage: “Delete the Marketing Manager position” or “Remove the Junior Developer position with justification: restructuring.”
 ### Restoring a position
-> 
+> Specify the position you want to restore by its name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore the ‘Marketing Manager’ position because it was deleted by mistake” or “Reinstate the ‘Junior Developer’ position to support a new project.”
 ### Assigning a member to a position
 > Assign a member to a specific position in the company by specifying the member’s name, email, or ID and the position’s name or ID. You can optionally provide a justification for the assignment. For example, you could tell BigManage: “Assign John Doe to the Software Engineer position” or “Add member with email jane@example.com to the Marketing Manager position, justification: promotion.”
 ### Unassigning a member from a position
@@ -79,7 +79,7 @@ Email Support: contact@idealistic.ai
 ### Deleting a department
 > Specify the department you want to remove by its ID or name. You can also explain why it should be deleted. For example, you could tell BigManage: “Remove the department ‘Marketing’ because it was merged with Sales” or “Delete department 7 due to restructuring.”
 ### Restoring a department
-> 
+> Specify the department you want to restore by its name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore the ‘Marketing’ department because it was removed by mistake” or “Reinstate the ‘Research & Development’ department to support a new initiative.”
 ### Assigning a position to a department
 > Specify the position by its ID or name and the department by its ID or name to attach the position. For example, you could tell BigManage: “Assign the Finance Manager position to the Accounting department” or “Attach position 5 to department 3.”
 ### Unassigning a position from a department
@@ -280,7 +280,7 @@ Email Support: contact@idealistic.ai
 ### Deleting a customer
 > Specify the customer you want to remove from the company and include a justification if needed. You can refer to the customer by name or by ID. For example, you could tell BigManage: “Remove the customer ‘Acme Corp’ from the company because the contract was canceled.”
 ### Restoring a customer
-> 
+> Specify the customer you want to restore by its name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore customer ‘Acme Corp’ because the record was removed by mistake” or “Reinstate customer ‘Jane Doe’ after the billing issue was resolved.”
 
 ## Goods & Services
 ##### Goods and services represent the products or offerings your company provides.
