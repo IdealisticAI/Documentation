@@ -133,6 +133,8 @@ Email Support: contact@idealistic.ai
 > Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. Identify the members by their ID, name, or email. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Submit Timesheet’ for member 1023 to start in 60 seconds, repeat every 3600 seconds because the deadline is approaching” or “Set a reminder ‘Update Profile’ for members Jane Doe and John Smith to start in 120 seconds, repeating daily because of HR requirements.”
 ### Deleting a reminder
 > Specify the reminder you want to remove by its ID or name. You can also explain why the reminder should be deleted. For example, you could tell BigManage: “Delete the reminder ‘Monthly Report’ because it is no longer relevant” or “Remove reminder 12 because the event was cancelled.”
+### Restoring a reminder
+> Specify by its ID or name which removed reminder you want to bring back. For example, you could tell BigManage: “Restore the reminder ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ reminder since it’s still needed.”
 
 ## Purpose
 ##### The purpose defines the future direction for the company, positions or members.
@@ -291,7 +293,7 @@ Email Support: contact@idealistic.ai
 ### Deleting a goods & service
 > Specify the goods or service you want to remove from the company and include a justification if needed. You can refer to the item by its name or ID. For example, you could tell BigManage: “Remove the goods item ‘Premium Care Package’ because it is no longer offered.”
 ### Restoring a goods & service
-> 
+> Specify which removed product or service you want to restore and, if you want, explain why. For example, you could tell BigManage: “Restore the ‘Premium Support Package’ because it was deleted by mistake” or “Reinstate ‘Website Audit Service’ because the removal was accidental.”
 ### Adding goods & service revenue
 > Specify by ID or name which product or service the payment is for and who the customer is, then state the amount and currency; if it’s a subscription, say how often it renews (for example every month or every year) and you may add a brief reason. For example, you could tell BigManage: “Record a one-time sale of 120.50 USD for ‘Website Audit Service’ purchased by Acme Corp” or “Add a monthly subscription of 25 EUR for ‘Premium Support Package’ for customer Jane Doe because it’s a support plan.”
 ### Removing goods & service revenue
