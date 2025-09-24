@@ -319,7 +319,7 @@ Email Support: contact@idealistic.ai
 ### Restoring a supplier
 > Specify the supplier you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore supplier ‘Acme Supplies’ because the removal was accidental” or “Reinstate supplier ‘Global Parts Co.’ after contract renegotiation.”
 ### Updating a supplier
->
+> Specify the supplier by name (or ID) and provide the full new profile text that should replace the existing supplier record — this will overwrite the current supplier information with exactly what you supply, so include any reason or context inside that text if you want it recorded. For example, you could tell BigManage: “Update supplier ‘Acme Supplies’ to ‘Acme Supplies — Primary Q4 hardware vendor; billing: billing@acme.com; contract: renewed through 2027’.”
 
 ## Investor
 ##### Investors are internal or external people to the company that have invested money into the company or a part of the company.
@@ -332,7 +332,7 @@ Email Support: contact@idealistic.ai
 ### Restoring an investor
 > Specify the investor you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore investor ‘SeedFund Ltd.’ because the removal was a mistake” or “Reinstate investor ‘AngelWorks’ after the paperwork was completed.”
 ### Updating an investor
->
+> Specify the investor by name (or ID) and provide the full new profile text that should replace the existing investor record — this will overwrite the current investor information with exactly what you supply, so include any reason or context inside that text if you want it recorded. For example, you could tell BigManage: “Update investor ‘SeedFund Ltd.’ to ‘SeedFund Ltd. — Lead investor in Series A; contact: partners@seedfund.com; focus: fintech’.”
 
 ## Partner
 ##### Partner are internal or external people to the company that work with the company on mutual interests.
@@ -345,7 +345,7 @@ Email Support: contact@idealistic.ai
 ### Restoring a partner
 > Specify the partner you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore partner ‘Tech Alliances Co.’ because the removal was a mistake” or “Reinstate partner ‘Integration Partners’ after the new agreement.”
 ### Updating a partner
->
+> Specify the partner by name (or ID) and provide the full new profile text that should replace the existing partner record — this will overwrite the current partner information with exactly what you supply, so include any reason or context inside that text if you want it recorded. For example, you could tell BigManage: “Update partner ‘Tech Alliances Co.’ to ‘Tech Alliances Co. — API integration partner; scope: joint product roadmap; contact: integrations@techalliances.com’.”
 
 ## Shareholder
 ##### Shareholders are internal or external people to the company that own a percentage of the company.
