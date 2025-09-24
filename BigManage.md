@@ -311,61 +311,65 @@ Email Support: contact@idealistic.ai
 ## Supplier
 ##### Suppliers are internal or external people that supply their goods/services to the company.
 ### Creating a supplier
-> 
+> Provide the supplier’s name and include a short reason for adding them (for example, needed materials or a new vendor agreement). For example, you could tell BigManage: “Add supplier ‘Acme Supplies’ because we need them for the Q4 hardware rollout.”
 ### Renaming a supplier
-> 
+> Provide the new name for the supplier you want to rename. You can refer to the supplier by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the supplier ‘Acme Supplies’ to ‘Acme Distributors’ because of a company restructure.”
 ### Deleting a supplier
-> 
+> Specify the supplier you want to remove from the company and include a reason if needed. You can refer to the supplier by name or by ID. For example, you could tell BigManage: “Remove the supplier ‘Acme Supplies’ because the contract expired.”
 ### Restoring a supplier
->
+> Specify the supplier you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore supplier ‘Acme Supplies’ because the removal was accidental” or “Reinstate supplier ‘Global Parts Co.’ after contract renegotiation.”
 ### Updating a supplier
+>
 
 ## Investor
 ##### Investors are internal or external people to the company that have invested money into the company or a part of the company.
 ### Creating an investor
-> 
+> Provide the investor’s name and include a brief justification explaining why they are being added (for example, funding purpose or strategic fit). For example, you could tell BigManage: “Add investor ‘SeedFund Ltd.’ because they’re joining the Series A round.”
 ### Renaming an investor
-> 
+> Provide the new name for the investor you want to rename. You can refer to the investor by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the investor ‘SeedFund Ltd.’ to ‘SeedFund Partners’ because of rebranding.”
 ### Deleting an investor
-> 
+> Specify the investor you want to remove from the company and include a reason if needed. You can refer to the investor by name or by ID. For example, you could tell BigManage: “Remove the investor ‘SeedFund Ltd.’ from the company because the deal did not proceed.”
 ### Restoring an investor
->
+> Specify the investor you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore investor ‘SeedFund Ltd.’ because the removal was a mistake” or “Reinstate investor ‘AngelWorks’ after the paperwork was completed.”
 ### Updating an investor
+>
 
 ## Partner
 ##### Partner are internal or external people to the company that work with the company on mutual interests.
 ### Creating a partner
-> 
+> Provide the partner’s name and include a brief justification describing the collaboration purpose (for example, integration, distribution, or co-marketing). For example, you could tell BigManage: “Add partner ‘Tech Alliances Co.’ because we’re partnering on an API integration.”
 ### Renaming a partner
-> 
+> Provide the new name for the partner you want to rename. You can refer to the partner by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the partner ‘Tech Alliances Co.’ to ‘Tech Alliances Group’ because of rebranding.”
 ### Deleting a partner
-> 
+> Specify the partner you want to remove from the company and include a reason if needed. You can refer to the partner by name or by ID. For example, you could tell BigManage: “Remove the partner ‘Tech Alliances Co.’ because the collaboration ended.”
 ### Restoring a partner
->
+> Specify the partner you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore partner ‘Tech Alliances Co.’ because the removal was a mistake” or “Reinstate partner ‘Integration Partners’ after the new agreement.”
 ### Updating a partner
+>
 
 ## Shareholder
 ##### Shareholders are internal or external people to the company that own a percentage of the company.
 ### Creating a shareholder
-> 
+> Provide the shareholder’s name and include a short reason for the addition (for example, equity issuance or transfer confirmation). For example, you could tell BigManage: “Add shareholder ‘Jane Doe’ because shares were issued after the board approval.”
 ### Renaming a shareholder
-> 
+> Provide the new name for the shareholder you want to rename. You can refer to the shareholder by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the shareholder ‘Jane Doe’ to ‘Jane A. Doe’ to reflect the legal name.”
 ### Deleting a shareholder
-> 
+> Specify the shareholder you want to remove from the company and include a reason if needed. You can refer to the shareholder by name or by ID. For example, you could tell BigManage: “Remove the shareholder ‘John Smith’ because the shares were transferred.”
 ### Restoring a shareholder
->
+> Specify the shareholder you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore shareholder ‘Jane Doe’ because the removal was entered in error” or “Reinstate ‘John Smith’ after resolving the transfer issue.”
 ### Updating a shareholder
+>
 
 ## Lists
 ##### Lists are ordered collections of items like a shopping list or a things-to-do list.
 ### Creating a list
-> 
+> Provide the list name and include a concise justification for why the list is needed (for example, onboarding steps or preferred vendors). For example, you could tell BigManage: “Add a list named ‘Preferred Vendors’ because we need a curated supplier shortlist for procurement.”
 ### Renaming a list
-> 
+> Provide the new name for the list you want to rename. You can refer to the list by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the list ‘Preferred Vendors’ to ‘Approved Suppliers’ because the scope changed.”
 ### Deleting a list
-> 
+> Specify the list you want to remove from the company and include a reason if needed. You can refer to the list by name or by ID. For example, you could tell BigManage: “Remove the list ‘Old Leads’ because it’s outdated.”
 ### Restoring a list
->
+> Specify the list you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore the list ‘Onboarding Checklist’ because it was deleted by mistake” or “Reinstate ‘Preferred Vendors’ after review.”
 ### Adding to a list
 >
 ### Removing from a list
