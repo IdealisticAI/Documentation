@@ -380,7 +380,7 @@ Email Support: contact@idealistic.ai
 ### Selecting a case
 > Specify the case you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the case ‘Client Onboarding Issue’ for active tracking” or “Deselect case 12 because it is no longer relevant.”
 ### Renaming a case
-> 
+> Provide the new name for the case you want to rename. You can refer to the case by its current name or ID and add a brief reason if you want. For example, you could tell BigManage: “Rename the case ‘Client Onboarding Issue’ to ‘Client Onboarding — Payments’ because the scope was narrowed to billing.”
 ### Opening the selected case
 > Open the currently selected case. You can also explain why the case is being opened. For example, you could tell BigManage: “Open the selected case because new problems have arisen” or “Open the selected case due to an urgent support request.”
 ### Closing the selected case
@@ -402,25 +402,25 @@ Email Support: contact@idealistic.ai
 ### Detaching a goods & service from the selected case
 > Remove a goods or service item from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach goods/service 305 from the selected case with justification: no longer relevant.”
 ### Attaching a supplier to the selected case
-> 
+> Attach a supplier to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach supplier ‘Acme Supplies’ to the selected case with justification: required materials.”
 ### Detaching a supplier from the selected case
->
+> Remove a supplier from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach supplier ‘Acme Supplies’ from the selected case with justification: contract expired.”
 ### Attaching an investor to the selected case
-> 
+> Attach an investor to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach investor ‘SeedFund Ltd.’ to the selected case with justification: potential co-investment.”
 ### Detaching an investor from the selected case
->
+> Remove an investor from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach investor ‘SeedFund Ltd.’ from the selected case with justification: deal fell through.”
 ### Attaching a partner to the selected case
-> 
+> Attach a partner to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach partner ‘Tech Alliances Co.’ to the selected case with justification: collaboration on integration.”
 ### Detaching a partner from the selected case
->
+> Remove a partner from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach partner ‘Tech Alliances Co.’ from the selected case with justification: partnership ended.”
 ### Attaching a shareholder to the selected case
-> 
+> Attach a shareholder to the currently selected case by specifying their name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach shareholder ‘Jane Doe’ to the selected case with justification: investor inquiry.”
 ### Detaching a shareholder from the selected case
->
+> Remove a shareholder from the currently selected case by specifying their name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach shareholder ‘Jane Doe’ from the selected case with justification: no longer relevant.”
 ### Attaching a list to the selected case
-> 
+> Attach a list (e.g., checklist or contact list) to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach list ‘Onboarding Checklist’ to the selected case with justification: use for next steps.”
 ### Detaching a list from the selected case
-> 
+> Remove a list from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach list ‘Onboarding Checklist’ from the selected case with justification: checklist replaced.”
 
 ## Targets
 ##### Targets represent goals or objectives linked to cases of the company.
@@ -429,7 +429,7 @@ Email Support: contact@idealistic.ai
 ### Selecting a target
 > Specify the target you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the target ‘Q3 Sales Goal’ for active tracking” or “Deselect target 7 because it is no longer relevant.”
 ### Renaming a target
-> 
+> Provide the new name for the target you want to rename. You can refer to the target by its current name or ID and add a brief reason if you want. For example, you could tell BigManage: “Rename the target ‘Q3 Sales Goal’ to ‘Q3 Revenue Objective’ because the focus shifted to revenue.”
 ### Opening the selected target
 > Open the currently selected target. You can also explain why the target is being opened. For example, you could tell BigManage: “Open the selected target because it is now a priority” or “Open the selected target due to upcoming deadlines.”
 ### Closing the selected target
@@ -439,7 +439,7 @@ Email Support: contact@idealistic.ai
 ### Removing a member from the selected target
 > Remove a member from the currently selected target by specifying their name, email or ID. You can also explain why the member is being removed. For example, you could tell BigManage: “Remove member John Doe from the selected target because their assignment is complete” or “Remove member 1023 from the selected target due to reassignment.”
 ### Setting custom progress to a target
->
+> 
 ### Unsetting the custom progress of a target
 > 
 ### Attaching a case to the selected target
