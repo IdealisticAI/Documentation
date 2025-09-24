@@ -308,12 +308,79 @@ Email Support: contact@idealistic.ai
 ### Expiring goods & service revenue
 > Specify by ID or name which product or service revenue you want to mark as expired and which customer it belongs to, and you may include a brief reason. For example, you could tell BigManage: “Expire the monthly subscription for ‘Premium Support Package’ for Jane Doe because the trial period ended” or “Expire the sale of ‘Website Audit Service’ to Acme Corp because the payment was refunded.”
 
+## Supplier
+##### 
+### Creating a supplier
+> 
+### Renaming a supplier
+> 
+### Deleting a supplier
+> 
+### Restoring a supplier
+>
+### Updating a supplier
+
+## Investor
+##### 
+### Creating an investor
+> 
+### Renaming an investor
+> 
+### Deleting an investor
+> 
+### Restoring an investor
+>
+### Updating an investor
+
+## Partner
+##### 
+### Creating a partner
+> 
+### Renaming a partner
+> 
+### Deleting a partner
+> 
+### Restoring a partner
+>
+### Updating a partner
+
+## Shareholder
+##### 
+### Creating a shareholder
+> 
+### Renaming a shareholder
+> 
+### Deleting a shareholder
+> 
+### Restoring a shareholder
+>
+### Updating a shareholder
+
+## Lists
+##### 
+### Creating a list
+> 
+### Renaming a list
+> 
+### Deleting a list
+> 
+### Restoring a list
+>
+### Adding to a list
+>
+### Removing from a list
+>
+### Updating a list
+>
+
 ## Cases
 ##### Cases are records of issues, tasks or projects that involve members, customers or goods & services.
 ### Creating a case
 > Specify the name of the case you want to open. You can also explain why the case is being created. For example, you could tell BigManage: “Create a case called ‘Client Onboarding Issue’ because of recent delays” or “Open a new case named ‘Server Migration’ due to upcoming infrastructure changes.”
 ### Selecting a case
 > Specify the case you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the case ‘Client Onboarding Issue’ for active tracking” or “Deselect case 12 because it is no longer relevant.”
+### Renaming a case
+> 
 ### Opening the selected case
 > Open the currently selected case. You can also explain why the case is being opened. For example, you could tell BigManage: “Open the selected case because new problems have arisen” or “Open the selected case due to an urgent support request.”
 ### Closing the selected case
@@ -334,6 +401,26 @@ Email Support: contact@idealistic.ai
 > Attach a goods or service item to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach goods/service 305 to the selected case with justification: needed for resolution.”
 ### Detaching a goods & service from the selected case
 > Remove a goods or service item from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach goods/service 305 from the selected case with justification: no longer relevant.”
+### Attaching a supplier to the selected case
+> 
+### Detaching a supplier from the selected case
+>
+### Attaching an investor to the selected case
+> 
+### Detaching an investor from the selected case
+>
+### Attaching a partner to the selected case
+> 
+### Detaching a partner from the selected case
+>
+### Attaching a shareholder to the selected case
+> 
+### Detaching a shareholder from the selected case
+>
+### Attaching a list to the selected case
+> 
+### Detaching a list from the selected case
+> 
 
 ## Targets
 ##### Targets represent goals or objectives linked to cases of the company.
@@ -341,6 +428,8 @@ Email Support: contact@idealistic.ai
 > Specify the name of the target you want to create. You can also explain why the target is being created. For example, you could tell BigManage: “Create a target called ‘Q3 Sales Goal’ because we need to track performance” or “Open a new target named ‘Website Redesign’ due to upcoming project requirements.”
 ### Selecting a target
 > Specify the target you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the target ‘Q3 Sales Goal’ for active tracking” or “Deselect target 7 because it is no longer relevant.”
+### Renaming a target
+> 
 ### Opening the selected target
 > Open the currently selected target. You can also explain why the target is being opened. For example, you could tell BigManage: “Open the selected target because it is now a priority” or “Open the selected target due to upcoming deadlines.”
 ### Closing the selected target
@@ -349,6 +438,10 @@ Email Support: contact@idealistic.ai
 > Add a member to the currently selected target by specifying their name, email or ID. You can also explain why the member is being added. For example, you could tell BigManage: “Add member John Doe to the selected target because they are responsible for this task” or “Add member 1023 to the selected target to assist with completion.”
 ### Removing a member from the selected target
 > Remove a member from the currently selected target by specifying their name, email or ID. You can also explain why the member is being removed. For example, you could tell BigManage: “Remove member John Doe from the selected target because their assignment is complete” or “Remove member 1023 from the selected target due to reassignment.”
+### Setting custom progress to a target
+>
+### Unsetting the custom progress of a target
+> 
 ### Attaching a case to the selected target
 > Attach a case to the currently selected target by specifying the case name or ID. You can also explain why the case is being attached. For example, you could tell BigManage: “Attach case ‘Q2 Sales Report’ to the selected target because it is relevant to achieving this goal” or “Attach case 305 to the selected target for tracking purposes.”
 ### Detaching a case from the selected target
