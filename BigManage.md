@@ -350,7 +350,7 @@ Email Support: contact@idealistic.ai
 ## Shareholder
 ##### Shareholders are internal or external people to the company that own a percentage of the company.
 ### Creating a shareholder
-> Provide the shareholder’s name and include a short reason for the addition (for example, equity issuance or transfer confirmation). For example, you could tell BigManage: “Add shareholder ‘Jane Doe’ because shares were issued after the board approval.”
+> Provide the shareholder’s name and include their percentage of ownership (for example, 70%). For example, you could tell BigManage: “Add shareholder ‘Jane Doe’ with 30% ownership.”
 ### Renaming a shareholder
 > Provide the new name for the shareholder you want to rename. You can refer to the shareholder by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the shareholder ‘Jane Doe’ to ‘Jane A. Doe’ to reflect the legal name.”
 ### Deleting a shareholder
@@ -358,7 +358,7 @@ Email Support: contact@idealistic.ai
 ### Restoring a shareholder
 > Specify the shareholder you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore shareholder ‘Jane Doe’ because the removal was entered in error” or “Reinstate ‘John Smith’ after resolving the transfer issue.”
 ### Updating a shareholder
->
+> Provide the shareholder’s name (or ID) and the new percentage of shares they should have, and you can explain why in a short phrase. For example, you could tell BigManage: “Update shareholder Jane Doe to 12.5% because of the recent equity grant.”
 
 ## Lists
 ##### Lists are ordered collections of items like a shopping list or a things-to-do list.
@@ -375,7 +375,7 @@ Email Support: contact@idealistic.ai
 ### Removing from a list
 >
 ### Updating a list
->
+> Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content; you can also add a short reason why. For example, you could tell BigManage: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’ because the form was updated.”
 
 ## Cases
 ##### Cases are records of issues, tasks or projects that involve members, customers or goods & services.
