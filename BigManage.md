@@ -371,9 +371,9 @@ Email Support: contact@idealistic.ai
 ### Restoring a list
 > Specify the list you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore the list ‘Onboarding Checklist’ because it was deleted by mistake” or “Reinstate ‘Preferred Vendors’ after review.”
 ### Adding to a list
->
+> Specify the list by name or ID and provide the content you want to add. For example, you could tell BigManage: “Add ‘Finalize budget report’ to the ‘Finance Tasks’ list.”
 ### Removing from a list
->
+> To remove an entry from a company list, specify which list it belongs to by name or ID and identify the item you want to delete. You may also provide a justification for the removal. For example, you could tell BigManage: “Remove the item ‘Submit NDA’ from the ‘Onboarding Checklist’ because it’s no longer required.”
 ### Updating a list
 > Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content; you can also add a short reason why. For example, you could tell BigManage: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’ because the form was updated.”
 
@@ -443,9 +443,9 @@ Email Support: contact@idealistic.ai
 ### Removing a member from the selected target
 > Remove a member from the currently selected target by specifying their name, email or ID. You can also explain why the member is being removed. For example, you could tell BigManage: “Remove member John Doe from the selected target because their assignment is complete” or “Remove member 1023 from the selected target due to reassignment.”
 ### Setting custom progress to a target
-> 
+> Set a target’s progress to a specific percentage (for example 45%). Refer to the target by name or ID and you can also say why you’re adjusting it. For example, you could tell BigManage: “Set the progress of target ‘Q3 Revenue Objective’ to 45% because half the milestones are complete.”
 ### Unsetting the custom progress of a target
-> 
+> Remove the custom progress value for the currently selected target and, if you want, say why. For example, you could tell BigManage: “Remove the custom progress for the selected target because the manual update was entered in error.”
 ### Attaching a case to the selected target
 > Attach a case to the currently selected target by specifying the case name or ID. You can also explain why the case is being attached. For example, you could tell BigManage: “Attach case ‘Q2 Sales Report’ to the selected target because it is relevant to achieving this goal” or “Attach case 305 to the selected target for tracking purposes.”
 ### Detaching a case from the selected target
