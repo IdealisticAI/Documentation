@@ -279,7 +279,7 @@ Email Support: contact@idealistic.ai
 > Specify the member by name, email, or ID and indicate which physical address to remove, optionally including a justification. You can refer to the address by its reference name or a number pointer if there are multiple addresses. For example, you could tell BigManage: “Remove the physical address called ‘Home Office’ from the member ‘John Doe’ because he no longer works there.”
 
 ## Customers
-##### Customers represent the clients or partners your company works with.
+##### Customers are internal or external people to the company that the company offers goods/services to.
 ### Creating a customer
 > Provide the name of the customer you want to add to the company. You can also include an optional justification. For example, you could tell BigManage: “Add a customer named ‘Acme Corp’ to the company.”
 ### Renaming a customer
@@ -309,7 +309,7 @@ Email Support: contact@idealistic.ai
 > Specify by ID or name which product or service revenue you want to mark as expired and which customer it belongs to, and you may include a brief reason. For example, you could tell BigManage: “Expire the monthly subscription for ‘Premium Support Package’ for Jane Doe because the trial period ended” or “Expire the sale of ‘Website Audit Service’ to Acme Corp because the payment was refunded.”
 
 ## Supplier
-##### 
+##### Suppliers are internal or external people that supply their goods/services to the company.
 ### Creating a supplier
 > 
 ### Renaming a supplier
@@ -321,7 +321,7 @@ Email Support: contact@idealistic.ai
 ### Updating a supplier
 
 ## Investor
-##### 
+##### Investors are internal or external people to the company that have invested money into the company or a part of the company.
 ### Creating an investor
 > 
 ### Renaming an investor
@@ -333,7 +333,7 @@ Email Support: contact@idealistic.ai
 ### Updating an investor
 
 ## Partner
-##### 
+##### Partner are internal or external people to the company that work with the company on mutual interests.
 ### Creating a partner
 > 
 ### Renaming a partner
@@ -345,7 +345,7 @@ Email Support: contact@idealistic.ai
 ### Updating a partner
 
 ## Shareholder
-##### 
+##### Shareholders are internal or external people to the company that own a percentage of the company.
 ### Creating a shareholder
 > 
 ### Renaming a shareholder
@@ -357,7 +357,7 @@ Email Support: contact@idealistic.ai
 ### Updating a shareholder
 
 ## Lists
-##### 
+##### Lists are ordered collections of items like a shopping list or a things-to-do list.
 ### Creating a list
 > 
 ### Renaming a list
