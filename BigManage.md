@@ -141,6 +141,19 @@ Email Support: contact@idealistic.ai
 ### Restoring a reminder
 > Specify by its ID or name which removed reminder you want to bring back. For example, you could tell BigManage: “Restore the reminder ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ reminder since it’s still needed.”
 
+## Deadlines
+##### Deadlines notify the company, specific positions or individual members about important tasks that must be completed in a certain timeframe.
+### Creating a deadline for the company
+> Specify the deadline’s name, when it should start and when it should expire. You can also explain why the deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Monthly Report’ to start in 60 seconds because the report is due” or “Set a deadline ‘Company Meeting’ to start in a day because of the weekly meeting schedule.”
+### Creating a deadline for one or multiple positions
+> Specify the deadline’s name, when it should start and when it should expire. Identify the positions by their ID or name. You can also explain why the deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Quarterly Report’ for the Finance Manager position to start in 60 seconds because the report is due” or “Set a deadline ‘Team Meeting’ for the Support and Sales positions to start in 120 seconds because of project updates.”
+### Creating a deadline for one or multiple members
+> Specify the deadline’s name, when it should start and when it should expire. Identify the members by their ID, name, or email. You can also explain why the deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Submit Timesheet’ for member 1023 to start in 60 seconds because the deadline is approaching” or “Set a deadline ‘Update Profile’ for members Jane Doe and John Smith to start in 120 seconds because of HR requirements.”
+### Deleting a deadline
+> Specify the deadline you want to remove by its ID or name. You can also explain why the deadline should be deleted. For example, you could tell BigManage: “Delete the deadline ‘Monthly Report’ because it is no longer relevant” or “Remove deadline 12 because the event was cancelled.”
+### Restoring a deadline
+> Specify by its ID or name which removed deadline you want to bring back. For example, you could tell BigManage: “Restore the deadline ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ deadline since it’s still needed.”
+
 ## Purpose
 ##### The purpose defines the future direction for the company, positions or members.
 ### Adding to the company's purpose
