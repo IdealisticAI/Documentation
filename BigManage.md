@@ -95,13 +95,22 @@ Email Support: contact@idealistic.ai
 > Modify the general access level of a specific member by specifying the member’s ID and the desired access type—such as no access, past access (historical retention), or full access. You can also optionally provide a justification for the change. For example, you could tell BigManage: “Grant full access to member 1023” or “Revoke access for member 2045 with justification: project reassignment.”
 
 ## Time Access
-##### Time access sets limits on when members, positions or the company can perform certain actions.
+##### Time access sets limits on when members, positions or the company can perform certain actions based on the day's time.
 ### Managing the company's time access
 > Specify the start and end times (hours and minutes) for the company’s default access. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the company’s time access from 08:00 to 18:00 because of updated working hours” or “Change the company’s access to 09:00–17:00 due to shift adjustments.”
 ### Managing a position's time access
 > Specify the start and end times (hours and minutes) for a position’s access. Identify the position by its ID or name. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the time access of position ‘Sales Team’ from 09:30 to 17:45 because of a project deadline” or “Change the time access of position 5 to 08:00–16:00 due to shift adjustments.”
 ### Managing a member's time access
 > Specify the member by their ID, name, or email and set their access level. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the access level of member 1023 to full access because they are leading a critical project” or “Change the access of member ‘Jane Doe’ to limited access due to position change.”
+
+## Week's Day Access
+##### Week's Day access sets limits on when members, positions or the company can perform certain actions based on the day of the week.
+### Managing the company's week's day access
+> Define which days of the week the company should have operational access, and optionally include a justification for the change. You can specify individual days or a full weekly schedule. For example, you could tell BigManage: “Set the company’s access to Monday through Friday because we’re adopting a standard workweek” or “Enable company access on Saturday and Sunday due to weekend operations.”
+### Managing a position's week's day access
+> Specify which days of the week a particular position should have system access, identifying the position by name or ID. You can also provide a justification for the change. For example, you could tell BigManage: “Set the Sales Team’s access to Monday through Saturday because of client demand” or “Disable Friday access for position ‘Intern’ due to updated work schedule.”
+### Managing a member's week's day access
+> Specify which days of the week a particular member should have system access, identifying them by name, ID, or email. You can also provide a justification for the change. For example, you could tell BigManage: “Allow member ‘Jane Doe’ access from Monday to Friday because of the new project schedule” or “Disable Sunday access for member 1045 due to updated weekend policy.”
 
 ## Managers
 ##### Managers have greater control over the company, allowing them to oversee members, positions, and settings. Specifically, they can perform actions such as creating positions and departments, managing general access, adjusting time access, and all other company-wide actions.
