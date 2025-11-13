@@ -330,44 +330,18 @@ Email Support: contact@idealistic.ai
 ### Expiring goods & service revenue
 > Specify by ID or name which product or service revenue you want to mark as expired and which customer it belongs to, and you may include a brief reason. For example, you could tell BigManage: “Expire the monthly subscription for ‘Premium Support Package’ for Jane Doe because the trial period ended” or “Expire the sale of ‘Website Audit Service’ to Acme Corp because the payment was refunded.”
 
-## Supplier
-##### Suppliers are internal or external people that supply their goods/services to the company.
-### Creating a supplier
-> Provide the supplier’s name and include a short reason for adding them (for example, needed materials or a new vendor agreement). For example, you could tell BigManage: “Add supplier ‘Acme Supplies’ because we need them for the Q4 hardware rollout.”
-### Renaming a supplier
-> Provide the new name for the supplier you want to rename. You can refer to the supplier by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the supplier ‘Acme Supplies’ to ‘Acme Distributors’ because of a company restructure.”
-### Deleting a supplier
-> Specify the supplier you want to remove from the company and include a reason if needed. You can refer to the supplier by name or by ID. For example, you could tell BigManage: “Remove the supplier ‘Acme Supplies’ because the contract expired.”
-### Restoring a supplier
-> Specify the supplier you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore supplier ‘Acme Supplies’ because the removal was accidental” or “Reinstate supplier ‘Global Parts Co.’ after contract renegotiation.”
-### Updating a supplier
-> Specify the supplier by name (or ID) and provide the full new profile text that should replace the existing supplier record — this will overwrite the current supplier information with exactly what you supply, so include any reason or context inside that text if you want it recorded. For example, you could tell BigManage: “Update supplier ‘Acme Supplies’ to ‘Acme Supplies — Primary Q4 hardware vendor; billing: billing@acme.com; contract: renewed through 2027’.”
-
-## Investor
-##### Investors are internal or external people to the company that have invested money into the company or a part of the company.
-### Creating an investor
-> Provide the investor’s name and include a brief justification explaining why they are being added (for example, funding purpose or strategic fit). For example, you could tell BigManage: “Add investor ‘SeedFund Ltd.’ because they’re joining the Series A round.”
-### Renaming an investor
-> Provide the new name for the investor you want to rename. You can refer to the investor by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the investor ‘SeedFund Ltd.’ to ‘SeedFund Partners’ because of rebranding.”
-### Deleting an investor
-> Specify the investor you want to remove from the company and include a reason if needed. You can refer to the investor by name or by ID. For example, you could tell BigManage: “Remove the investor ‘SeedFund Ltd.’ from the company because the deal did not proceed.”
-### Restoring an investor
-> Specify the investor you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore investor ‘SeedFund Ltd.’ because the removal was a mistake” or “Reinstate investor ‘AngelWorks’ after the paperwork was completed.”
-### Updating an investor
-> Specify the investor by name (or ID) and provide the full new profile text that should replace the existing investor record — this will overwrite the current investor information with exactly what you supply, so include any reason or context inside that text if you want it recorded. For example, you could tell BigManage: “Update investor ‘SeedFund Ltd.’ to ‘SeedFund Ltd. — Lead investor in Series A; contact: partners@seedfund.com; focus: fintech’.”
-
-## Partner
-##### Partner are internal or external people to the company that work with the company on mutual interests.
-### Creating a partner
-> Provide the partner’s name and include a brief justification describing the collaboration purpose (for example, integration, distribution, or co-marketing). For example, you could tell BigManage: “Add partner ‘Tech Alliances Co.’ because we’re partnering on an API integration.”
-### Renaming a partner
-> Provide the new name for the partner you want to rename. You can refer to the partner by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the partner ‘Tech Alliances Co.’ to ‘Tech Alliances Group’ because of rebranding.”
-### Deleting a partner
-> Specify the partner you want to remove from the company and include a reason if needed. You can refer to the partner by name or by ID. For example, you could tell BigManage: “Remove the partner ‘Tech Alliances Co.’ because the collaboration ended.”
-### Restoring a partner
-> Specify the partner you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore partner ‘Tech Alliances Co.’ because the removal was a mistake” or “Reinstate partner ‘Integration Partners’ after the new agreement.”
-### Updating a partner
-> Specify the partner by name (or ID) and provide the full new profile text that should replace the existing partner record — this will overwrite the current partner information with exactly what you supply, so include any reason or context inside that text if you want it recorded. For example, you could tell BigManage: “Update partner ‘Tech Alliances Co.’ to ‘Tech Alliances Co. — API integration partner; scope: joint product roadmap; contact: integrations@techalliances.com’.”
+## Entity
+##### Entities are internal or external people to the company that are related, such as investors, partners, suppliers, e.t.c.
+### Creating an entity
+> Provide the entity’s name and include a brief justification explaining why they are being added (for example, funding purpose or strategic fit). For example, you could tell BigManage: “Add entity ‘SeedFund Ltd.’ because they’re joining the Series A round.”
+### Renaming an entity
+> Provide the new name for the entity you want to rename. You can refer to the entity by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the entity ‘SeedFund Ltd.’ to ‘SeedFund Partners’ because of rebranding.”
+### Deleting an entity
+> Specify the entity you want to remove from the company and include a reason if needed. You can refer to the entity by name or by ID. For example, you could tell BigManage: “Remove the entity ‘SeedFund Ltd.’ from the company because the deal did not proceed.”
+### Restoring an entity
+> Specify the entity you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore entity ‘SeedFund Ltd.’ because the removal was a mistake” or “Reinstate entity ‘AngelWorks’ after the paperwork was completed.”
+### Updating an entity
+> Specify the entity by name (or ID) and provide the full new profile text that should replace the existing entity record — this will overwrite the current entity information with exactly what you supply, so include any reason or context inside that text if you want it recorded. For example, you could tell BigManage: “Update entity ‘SeedFund Ltd.’ to ‘SeedFund Ltd. — Lead entity in Series A; contact: partners@seedfund.com; focus: fintech’.”
 
 ## Shareholder
 ##### Shareholders are internal or external people to the company that own a percentage of the company.
@@ -427,18 +401,10 @@ Email Support: contact@idealistic.ai
 > Attach a goods or service item to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach goods/service 305 to the selected case with justification: needed for resolution.”
 ### Detaching a goods & service from the selected case
 > Remove a goods or service item from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach goods/service 305 from the selected case with justification: no longer relevant.”
-### Attaching a supplier to the selected case
-> Attach a supplier to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach supplier ‘Acme Supplies’ to the selected case with justification: required materials.”
-### Detaching a supplier from the selected case
-> Remove a supplier from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach supplier ‘Acme Supplies’ from the selected case with justification: contract expired.”
-### Attaching an investor to the selected case
-> Attach an investor to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach investor ‘SeedFund Ltd.’ to the selected case with justification: potential co-investment.”
-### Detaching an investor from the selected case
-> Remove an investor from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach investor ‘SeedFund Ltd.’ from the selected case with justification: deal fell through.”
-### Attaching a partner to the selected case
-> Attach a partner to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach partner ‘Tech Alliances Co.’ to the selected case with justification: collaboration on integration.”
-### Detaching a partner from the selected case
-> Remove a partner from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach partner ‘Tech Alliances Co.’ from the selected case with justification: partnership ended.”
+### Attaching an entity to the selected case
+> Attach an entity to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach entity ‘SeedFund Ltd.’ to the selected case with justification: potential co-investment.”
+### Detaching an entity from the selected case
+> Remove an entity from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach entity ‘SeedFund Ltd.’ from the selected case with justification: deal fell through.”
 ### Attaching a shareholder to the selected case
 > Attach a shareholder to the currently selected case by specifying their name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach shareholder ‘Jane Doe’ to the selected case with justification: investor inquiry.”
 ### Detaching a shareholder from the selected case
