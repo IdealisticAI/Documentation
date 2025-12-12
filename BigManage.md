@@ -2,7 +2,7 @@
 
 ## Links
 > Official Website: https://www.idealistic.ai \
-Visual Documentation: https://www.idealistic.ai/bigmanage/documentation/visual
+Visual Documentation: https://www.idealistic.ai/bigmanage/documentation/visual \
 Instagram Application: https://www.idealistic.ai/instagram \
 Messenger Application: https://www.idealistic.ai/messenger \
 Telegram Application: https://www.idealistic.ai/telegram \
