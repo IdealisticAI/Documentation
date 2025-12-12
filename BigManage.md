@@ -1,21 +1,8 @@
-## Introducing BigManage by Idealistic – the next-generation software that transforms company communication. Using advanced AI, BigManage intelligently extracts and organizes information straight from user chat prompts—no menus, buttons, or complicated interfaces needed. Enjoy effortless, seamless collaboration across your favorite platforms, including Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and email.
-### Easy Adoption
-> BigManage is easily accessible via Instagram, Meta Messenger, WhatsApp, Discord, Telegram, and email. You likely already have an account on one or more of these platforms, so you can start using BigManage instantly—no need to learn a new interface.
-### Quick Learning
-> You can learn and understand BigManage in under an hour. Unlike ordinary software, BigManage relies on chat prompts to access and control its features, making it as easy to use as having a conversation.
-### Maximum Utility
-> Imagine talking to a person—everything you say stimulates different areas of their brain, allowing them to respond in ways that meet your needs. BigManage works the same way. You might not expect so much from a simple chat, but you can. Anything you write is broken down, analyzed, and directed to the right parts of the software—just like having a conversation with a real person.
-### Low Cost
-> You might expect all this to come at a high price, but at Idealistic we’ve made BigManage surprisingly affordable (Pricing will be discussed upon communication per use-case). By optimizing resources and automating routine tasks, BigManage helps businesses cut costs, reduce reliance on excess staffing or overtime, and unlock greater efficiency—and long term, BigManage becomes a money saver rather than an extra cost.
-### High Security
-> BigManage transfers your data through trusted platforms and stores it securely in isolated data centers in Germany. We never sell your data, and you don’t trade it for anything else. Your information is kept only for when you need it—otherwise, it remains untouched and completely private.
-### Daily Support
-> Whether you’re a company or an individual, we’ll share our emails and phone numbers with you—and even make an effort to meet in person. You can reach out anytime, and if we’re unavailable at the moment, we’ll make sure to return your call, message, or email to understand the issue and find the best way to help.
-### Proper Scalability
-> BigManage runs on a distributed network of machines, allowing it to scale up or down based on resource demand. This horizontal scalability is a standard in modern business, and we provide it to ensure you’re in safe hands—even when the system is under heavy load.
+### Introducing BigManage by Idealistic – the next-generation software that transforms company communication. Using advanced AI, BigManage intelligently extracts and organizes information straight from user chat prompts—no menus, buttons, or complicated interfaces needed. Enjoy effortless, seamless collaboration across your favorite platforms, including Instagram, Meta Messenger, WhatsApp, Discord, Telegram and email.
 
 ## Links
-> Official Website: https://www.idealistic.ai/ \
+> Official Website: https://www.idealistic.ai \
+Visual Documentation: https://www.idealistic.ai/bigmanage/documentation/visual
 Instagram Application: https://www.idealistic.ai/instagram \
 Messenger Application: https://www.idealistic.ai/messenger \
 Telegram Application: https://www.idealistic.ai/telegram \
