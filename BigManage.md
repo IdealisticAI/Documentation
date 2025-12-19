@@ -370,37 +370,37 @@ Email Support: contact@idealistic.ai
 ### Renaming a case
 > Provide the new name for the case you want to rename. You can refer to the case by its current name or ID and add a brief reason if you want. For example, you could tell BigManage: “Rename the case ‘Client Onboarding Issue’ to ‘Client Onboarding — Payments’ because the scope was narrowed to billing.”
 ### Opening the selected case
-> Open the currently selected case. You can also explain why the case is being opened. For example, you could tell BigManage: “Open the selected case because new problems have arisen” or “Open the selected case due to an urgent support request.”
+> Open the currently selected case. For example, you could tell BigManage: “Open the selected case” or “Open the case Financial Changes”
 ### Closing the selected case
-> Close the currently selected case. You can also explain why the case is being closed. For example, you could tell BigManage: “Close the selected case because the issue has been resolved” or “Close the selected case due to completion of all related tasks.”
+> Close the currently selected case. For example, you could tell BigManage: “Close the selected case” or “Close the case Marketing Goals”
 ### Adding a comment on the selected case
 > Add a comment to the currently selected case by specifying the text of your comment. For example, you could tell BigManage: “Add comment ‘Reviewed financial projections’ to the selected case.”
 ### Removing a comment from the selected case
-> Remove a comment from the currently selected case by specifying the comment ID. For example, you could tell BigManage: “Remove comment 42 from the selected case.”
+> Remove a comment from the currently selected case by specifying the comment ID. For example, you could tell BigManage: “Remove comment 42 from the selected case.” or "Remove the comment "I will do it tomorrow' from the case Financial Changes"
 ### Adding a member to the selected case
-> Add a member to the participants of the currently selected case by specifying their name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Add member 1023 to the selected case with justification: project requirement.”
+> Add a member to the participants of the currently selected case by specifying their name, email or ID. For example, you could tell BigManage: “Add member 1023 to the selected case”
 ### Removing a member from the selected case
-> Remove a member from the participants of the currently selected case by specifying their name, email or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Remove member 1023 from the selected case with justification: reassignment.”
+> Remove a member from the participants of the currently selected case by specifying their name, email or ID. For example, you could tell BigManage: “Remove member 1023 from the selected case”
 ### Attaching a customer to the selected case
-> Attach a customer to the currently selected case by specifying the customer’s name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach customer 5021 to the selected case with justification: important update.”
+> Attach a customer to the currently selected case by specifying the customer’s name or ID. For example, you could tell BigManage: “Attach customer 5021 to the selected case”
 ### Detaching a customer from the selected case
-> Remove a customer from the currently selected case by specifying the customer’s name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach customer 5021 from the selected case with justification: no longer relevant.”
+> Remove a customer from the currently selected case by specifying the customer’s name or ID. For example, you could tell BigManage: “Detach customer 5021 from the selected case”
 ### Attaching a goods & service to the selected case
-> Attach a goods or service item to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach goods/service 305 to the selected case with justification: needed for resolution.”
+> Attach a goods or service item to the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Attach goods/service 305 to the selected case”
 ### Detaching a goods & service from the selected case
-> Remove a goods or service item from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach goods/service 305 from the selected case with justification: no longer relevant.”
+> Remove a goods or service item from the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Detach goods/service 305 from the selected case”
 ### Attaching an entity to the selected case
-> Attach an entity to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach entity ‘SeedFund Ltd.’ to the selected case with justification: potential co-investment.”
+> Attach an entity to the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Attach entity ‘SeedFund Ltd.’ to the selected case”
 ### Detaching an entity from the selected case
-> Remove an entity from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach entity ‘SeedFund Ltd.’ from the selected case with justification: deal fell through.”
+> Remove an entity from the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Detach entity ‘SeedFund Ltd.’ from the selected case”
 ### Attaching a shareholder to the selected case
-> Attach a shareholder to the currently selected case by specifying their name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach shareholder ‘Jane Doe’ to the selected case with justification: investor inquiry.”
+> Attach a shareholder to the currently selected case by specifying their name or ID. For example, you could tell BigManage: “Attach shareholder ‘Jane Doe’ to the selected case”
 ### Detaching a shareholder from the selected case
-> Remove a shareholder from the currently selected case by specifying their name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach shareholder ‘Jane Doe’ from the selected case with justification: no longer relevant.”
+> Remove a shareholder from the currently selected case by specifying their name or ID. For example, you could tell BigManage: “Detach shareholder ‘Jane Doe’ from the selected case”
 ### Attaching a list to the selected case
-> Attach a list (e.g., checklist or contact list) to the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Attach list ‘Onboarding Checklist’ to the selected case with justification: use for next steps.”
+> Attach a list (e.g., checklist or contact list) to the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Attach list ‘Onboarding Checklist’ to the selected case”
 ### Detaching a list from the selected case
-> Remove a list from the currently selected case by specifying its name or ID. You can also optionally provide a justification. For example, you could tell BigManage: “Detach list ‘Onboarding Checklist’ from the selected case with justification: checklist replaced.”
+> Remove a list from the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Detach list ‘Onboarding Checklist’ from the selected case”
 
 ## Targets
 ##### Targets represent goals or objectives linked to cases of the company.
