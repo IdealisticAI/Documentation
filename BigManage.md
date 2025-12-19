@@ -39,7 +39,7 @@ Email Support: contact@idealistic.ai
 ## Positions
 ##### members can have no position, a single position or multiple positions, which define their role and level in the company’s hierarchy.
 ### Creating a position
-> Specify the name of the position you want to add to the company. You can also provide an optional justification for creating it. For example, you could tell BigManage: “Create a Marketing Manager position” or “Add a Junior Developer position with justification: company expansion.”
+> Specify the name of the position you want to add to the company. For example, you could tell BigManage: “Create a Marketing Manager position” or “Add a Junior Developer position”
 ### Renaming a position
 > Change the name of an existing position in the company by specifying the new name and the position’s ID or current name. You can optionally provide a justification for the change. For example, you could tell BigManage: “Rename the Junior Developer position to Software Engineer” or “Change Marketing Manager to Senior Marketing Manager with justification: promotion.”
 ### Deleting a position
@@ -347,7 +347,7 @@ Email Support: contact@idealistic.ai
 ## Lists
 ##### Lists are ordered collections of items like a shopping list or a things-to-do list.
 ### Creating a list
-> Provide the list name and include a concise justification for why the list is needed (for example, onboarding steps or preferred vendors). For example, you could tell BigManage: “Add a list named ‘Preferred Vendors’ because we need a curated supplier shortlist for procurement.”
+> Provide the list name. For example, you could tell BigManage: “Add a list named ‘Preferred Vendors’”
 ### Renaming a list
 > Provide the new name for the list you want to rename. You can refer to the list by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the list ‘Preferred Vendors’ to ‘Approved Suppliers’ because the scope changed.”
 ### Deleting a list
@@ -357,7 +357,7 @@ Email Support: contact@idealistic.ai
 ### Adding to a list
 > Specify the list by name or ID and provide the content you want to add. For example, you could tell BigManage: “Add ‘Finalize budget report’ to the ‘Finance Tasks’ list.”
 ### Removing from a list
-> To remove an entry from a company list, specify which list it belongs to by name or ID and identify the item you want to delete. You may also provide a justification for the removal. For example, you could tell BigManage: “Remove the item ‘Submit NDA’ from the ‘Onboarding Checklist’ because it’s no longer required.”
+> To remove an entry from a company list, specify which list it belongs to by name or ID and identify the item you want to delete. For example, you could tell BigManage: “Remove the item ‘Submit NDA’ from the ‘Onboarding Checklist’”
 ### Updating a list
 > Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content; you can also add a short reason why. For example, you could tell BigManage: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’ because the form was updated.”
 
