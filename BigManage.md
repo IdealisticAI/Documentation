@@ -43,9 +43,9 @@ Email Support: contact@idealistic.ai
 ### Renaming a position
 > Change the name of an existing position in the company by specifying the new name and the position’s ID or current name. You can optionally provide a justification for the change. For example, you could tell BigManage: “Rename the Junior Developer position to Software Engineer” or “Change Marketing Manager to Senior Marketing Manager with justification: promotion.”
 ### Deleting a position
-> Remove a position from the company by specifying its name or ID. You can optionally provide a justification for the removal. For example, you could tell BigManage: “Delete the Marketing Manager position” or “Remove the Junior Developer position with justification: restructuring.”
+> Remove a position from the company by specifying its name or ID. For example, you could tell BigManage: “Delete the Marketing Manager position” or “Remove the Junior Developer position”
 ### Restoring a position
-> Specify the position you want to restore by its name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore the ‘Marketing Manager’ position because it was deleted by mistake” or “Reinstate the ‘Junior Developer’ position to support a new project.”
+> Specify the position you want to restore by its name or ID. For example, you could tell BigManage: “Restore the ‘Marketing Manager’ position because it was deleted by mistake” or “Reinstate the ‘Junior Developer’ position to support a new project.”
 ### Assigning a member to a position
 > Assign a member to a specific position in the company by specifying the member’s name, email, or ID and the position’s name or ID. You can optionally provide a justification for the assignment. For example, you could tell BigManage: “Assign John Doe to the Software Engineer position” or “Add member with email jane@example.com to the Marketing Manager position, justification: promotion.”
 ### Unassigning a member from a position
@@ -65,9 +65,9 @@ Email Support: contact@idealistic.ai
 ### Renaming a department
 > Specify the department you want to rename by its ID or current name, and provide the new name. For example, you could tell BigManage: “Rename department 3 to ‘Customer Success’” or “Change the name of department ‘Support’ to ‘Client Relations’.”
 ### Deleting a department
-> Specify the department you want to remove by its ID or name. You can also explain why it should be deleted. For example, you could tell BigManage: “Remove the department ‘Marketing’ because it was merged with Sales” or “Delete department 7 due to restructuring.”
+> Specify the department you want to remove by its ID or name. For example, you could tell BigManage: “Remove the department ‘Marketing’ because it was merged with Sales” or “Delete department 7 due to restructuring.”
 ### Restoring a department
-> Specify the department you want to restore by its name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore the ‘Marketing’ department because it was removed by mistake” or “Reinstate the ‘Research & Development’ department to support a new initiative.”
+> Specify the department you want to restore by its name or ID. For example, you could tell BigManage: “Restore the ‘Marketing’ department” or “Reinstate the ‘Research & Development’ department to support a new initiative.”
 ### Assigning a position to a department
 > Specify the position by its ID or name and the department by its ID or name to attach the position. For example, you could tell BigManage: “Assign the Finance Manager position to the Accounting department” or “Attach position 5 to department 3.”
 ### Unassigning a position from a department
@@ -134,7 +134,7 @@ Email Support: contact@idealistic.ai
 ### Creating a reminder for one or multiple members
 > Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. Identify the members by their ID, name, or email. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Submit Timesheet’ for member 1023 to start in 60 seconds, repeat every 3600 seconds because the deadline is approaching” or “Set a reminder ‘Update Profile’ for members Jane Doe and John Smith to start in 120 seconds, repeating daily because of HR requirements.”
 ### Deleting a reminder
-> Specify the reminder you want to remove by its ID or name. You can also explain why the reminder should be deleted. For example, you could tell BigManage: “Delete the reminder ‘Monthly Report’ because it is no longer relevant” or “Remove reminder 12 because the event was cancelled.”
+> Specify the reminder you want to remove by its ID or name. For example, you could tell BigManage: “Delete the reminder ‘Monthly Report’ because it is no longer relevant” or “Remove reminder 12”
 ### Restoring a reminder
 > Specify by its ID or name which removed reminder you want to bring back. For example, you could tell BigManage: “Restore the reminder ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ reminder since it’s still needed.”
 
@@ -147,7 +147,7 @@ Email Support: contact@idealistic.ai
 ### Creating a deadline for one or multiple members
 > Specify the deadline’s name, when it should start and when it should expire. Identify the members by their ID, name, or email. You can also explain why the deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Submit Timesheet’ for member 1023 to start in 60 seconds because the deadline is approaching” or “Set a deadline ‘Update Profile’ for members Jane Doe and John Smith to start in 120 seconds because of HR requirements.”
 ### Deleting a deadline
-> Specify the deadline you want to remove by its ID or name. You can also explain why the deadline should be deleted. For example, you could tell BigManage: “Delete the deadline ‘Monthly Report’ because it is no longer relevant” or “Remove deadline 12 because the event was cancelled.”
+> Specify the deadline you want to remove by its ID or name. For example, you could tell BigManage: “Delete the deadline ‘Monthly Report’ because it is no longer relevant” or “Remove deadline 12”
 ### Restoring a deadline
 > Specify by its ID or name which removed deadline you want to bring back. For example, you could tell BigManage: “Restore the deadline ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ deadline since it’s still needed.”
 
@@ -349,17 +349,17 @@ Email Support: contact@idealistic.ai
 ### Creating a list
 > Provide the list name. For example, you could tell BigManage: “Add a list named ‘Preferred Vendors’”
 ### Renaming a list
-> Provide the new name for the list you want to rename. You can refer to the list by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the list ‘Preferred Vendors’ to ‘Approved Suppliers’ because the scope changed.”
+> Provide the new name for the list you want to rename. You can refer to the list by name or by ID. For example, you could tell BigManage: “Rename the list ‘Preferred Vendors’ to ‘Approved Suppliers’”
 ### Deleting a list
-> Specify the list you want to remove from the company and include a reason if needed. You can refer to the list by name or by ID. For example, you could tell BigManage: “Remove the list ‘Old Leads’ because it’s outdated.”
+> Specify the list you want to remove from the company. You can refer to the list by name or by ID. For example, you could tell BigManage: “Remove the list ‘Old Leads’ because it’s outdated.”
 ### Restoring a list
-> Specify the list you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore the list ‘Onboarding Checklist’ because it was deleted by mistake” or “Reinstate ‘Preferred Vendors’ after review.”
+> Specify the list you want to restore by name or ID. For example, you could tell BigManage: “Restore the list ‘Onboarding Checklist’” or “Reinstate ‘Preferred Vendors’ after review.”
 ### Adding to a list
 > Specify the list by name or ID and provide the content you want to add. For example, you could tell BigManage: “Add ‘Finalize budget report’ to the ‘Finance Tasks’ list.”
 ### Removing from a list
 > To remove an entry from a company list, specify which list it belongs to by name or ID and identify the item you want to delete. For example, you could tell BigManage: “Remove the item ‘Submit NDA’ from the ‘Onboarding Checklist’”
 ### Updating a list
-> Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content; you can also add a short reason why. For example, you could tell BigManage: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’ because the form was updated.”
+> Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content. For example, you could tell BigManage: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’”
 
 ## Cases
 ##### Cases are records of issues, tasks or projects that involve members, customers or goods & services.
