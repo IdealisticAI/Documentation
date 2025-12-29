@@ -339,8 +339,6 @@ Email Support: contact@idealistic.ai
 > Provide the new name for the shareholder you want to rename. You can refer to the shareholder by name or by ID and include an optional reason. For example, you could tell BigManage: “Rename the shareholder ‘Jane Doe’ to ‘Jane A. Doe’ to reflect the legal name.”
 ### Deleting a shareholder
 > Specify the shareholder you want to remove from the company and include a reason if needed. You can refer to the shareholder by name or by ID. For example, you could tell BigManage: “Remove the shareholder ‘John Smith’ because the shares were transferred.”
-### Restoring a shareholder
-> Specify the shareholder you want to restore by name or ID and, if you want, explain why. For example, you could tell BigManage: “Restore shareholder ‘Jane Doe’ because the removal was entered in error” or “Reinstate ‘John Smith’ after resolving the transfer issue.”
 ### Updating a shareholder
 > Provide the shareholder’s name (or ID) and the new percentage of shares they should have, and you can explain why in a short phrase. For example, you could tell BigManage: “Update shareholder Jane Doe to 12.5% because of the recent equity grant.”
 
