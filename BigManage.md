@@ -410,20 +410,20 @@ Email Support: contact@idealistic.ai
 ### Detaching a case from the selected target
 > Remove a case from the currently selected target by specifying the case name or ID. You can also explain why the case is being detached. For example, you could tell BigManage: “Detach case ‘Q2 Sales Report’ from the selected target because it is no longer relevant” or “Detach case 305 from the selected target for reassignment.”
 
-## Schedule
+## Weekly Schedule
 ##### ...
-### Adding to a member's schedule
-> 
-### Removing from a member's schedule
-> 
-### Adding to a position's schedule
-> 
-### Removing from a position's schedule
-> 
-### Adding to the team's schedule
-> 
-### Removing from the team's schedule
->
+### Adding to a member's weekly schedule
+> Add a schedule entry to a single member by specifying the member and the day and time it should apply. A justification is required, and you can optionally say how long the entry should last using a natural time description. For example, you could tell BigManage: “Add a schedule entry for member John Smith on Wednesday at 14:30 with justification: weekly coordination meeting, lasting for two hours” or “Schedule member Alex Brown on Friday at 09:00 with justification: client onboarding, expiring after one hour.”
+### Removing from a member's weekly schedule
+> Remove a schedule entry from a single member by specifying the member and the exact day and time of the entry. You may also include an optional justification explaining why it’s being removed. For example, you could tell BigManage: “Remove the schedule entry for member John Smith on Tuesday at 10:00 because the meeting was canceled” or “Delete Alex Brown’s schedule on Friday at 16:30 since the task was completed earlier.”
+### Adding to a position's weekly schedule
+> Add a schedule entry to a position by specifying the position and the day and time the entry should apply. You can also include a justification explaining why this schedule is being added. For example, you could tell BigManage: “Add a schedule entry to the Sales Manager position on Monday at 09:00 because of the weekly planning meeting” or “Schedule the Night Shift role on Saturday at 22:00 due to increased workload.”
+### Removing from a position's weekly schedule
+> Remove a schedule entry from a position by specifying the position and the exact day and time of the entry. You may optionally explain why the schedule is being removed. For example, you could tell BigManage: “Remove the schedule entry from the Customer Support position on Wednesday at 14:00 because the shift was reassigned” or “Delete the schedule for the Intern position on Friday at 12:30 since the training session was canceled.”
+### Adding to the company's weekly schedule
+> Add a schedule entry that applies to the entire company by specifying the day and time it should take effect. You can also include a justification explaining why this company-wide schedule is being added. For example, you could tell BigManage: “Add a company-wide schedule entry on Monday at 10:00 because of the weekly all-hands meeting” or “Schedule the company on Friday at 15:30 due to a mandatory safety briefing.”
+### Removing from the company's weekly schedule
+> Remove a company-wide schedule entry by specifying the day and time of the entry you want to delete. You may optionally provide a justification for the removal. For example, you could tell BigManage: “Remove the company-wide schedule entry on Thursday at 13:00 because the meeting was canceled” or “Delete the company schedule on Saturday at 09:00 since the office will remain closed.”
 
 ## Website View
 ##### A website view is a temporary link/URL that can be accessed with a code and aims to visually show most of the the structure of the company.
