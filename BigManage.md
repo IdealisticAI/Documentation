@@ -428,4 +428,4 @@ Email Support: contact@idealistic.ai
 ## Website View
 ##### A website view is a temporary link/URL that can be accessed with a code and aims to visually show most of the the structure of the company.
 ### Creating a website view
-> 
+> Create a website view by simply requesting the creation of one. For example, you could tell BigManage: "Create a website view because I want to see all the comments of the recent cases" or "I want a website view URL so I can study the total shareholders of the company"
