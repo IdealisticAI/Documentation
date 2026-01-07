@@ -409,3 +409,23 @@ Email Support: contact@idealistic.ai
 > Attach a case to the currently selected target by specifying the case name or ID. You can also explain why the case is being attached. For example, you could tell BigManage: “Attach case ‘Q2 Sales Report’ to the selected target because it is relevant to achieving this goal” or “Attach case 305 to the selected target for tracking purposes.”
 ### Detaching a case from the selected target
 > Remove a case from the currently selected target by specifying the case name or ID. You can also explain why the case is being detached. For example, you could tell BigManage: “Detach case ‘Q2 Sales Report’ from the selected target because it is no longer relevant” or “Detach case 305 from the selected target for reassignment.”
+
+## Schedule
+##### ...
+### Adding to a member's schedule
+> 
+### Removing from a member's schedule
+> 
+### Adding to a position's schedule
+> 
+### Removing from a position's schedule
+> 
+### Adding to the team's schedule
+> 
+### Removing from the team's schedule
+>
+
+## Website View
+##### A website view is a temporary link/URL that can be accessed with a code and aims to visually show most of the the structure of the company.
+### Creating a website view
+> 
