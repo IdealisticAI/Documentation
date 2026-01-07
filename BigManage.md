@@ -151,35 +151,20 @@ Email Support: contact@idealistic.ai
 ### Restoring a deadline
 > Specify by its ID or name which removed deadline you want to bring back. For example, you could tell BigManage: “Restore the deadline ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ deadline since it’s still needed.”
 
-## Purpose
-##### The purpose defines the future direction for the company, positions or members.
-### Adding to the company's purpose
-> Provide the content you want to add to the company’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s purpose: ‘Become the leading provider of eco-friendly products in the market.’”
-### Removing from the company's purpose
-> Specify the content you want to remove from the company’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the company’s purpose the goal ‘Become the leading provider of eco-friendly products in the market’ because the strategy has shifted.”
-### Adding to a position's purpose
-> Provide the content you want to add to the position’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the purpose of the position ‘Sales Team’: ‘Maintain high client satisfaction as an ongoing goal.’”
-### Removing from a position's purpose
-> Specify the content you want to remove from the position’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the purpose of the position ‘Sales Team’ the goal ‘Maintain high client satisfaction as an ongoing goal’ because the company’s priorities have changed.”
-### Adding to a member's purpose
-> Provide the content you want to add to the member’s purpose. No justification is needed when adding. For example, you could tell BigManage: “Add to the purpose of the member ‘John Doe’: ‘Ensure accuracy in all client reports consistently.’”
-### Removing from a member's purpose
-> Specify the content you want to remove from the member’s purpose and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the purpose of the member ‘John Doe’ the goal ‘Ensure accuracy in all client reports consistently’ because his position has changed.”
-
-## Past
-##### The past is a record of important facts about the company, positions or members, typically from before they started using BigManage or from before a member joined the company.
-### Adding to the company's past
-> Provide the content you want to add to the company’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s past: ‘Launched new product line in 2021.’”
-### Removing from the company's past
-> Specify the entry you want to remove from the company’s past and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the company’s past the entry ‘Launched new product line in 2021’ because it was recorded incorrectly.”
-### Adding to a position's past
-> Provide the content you want to add to the position’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the past of the position ‘Sales Team’: ‘Won the regional sales award in 2023.’”
-### Removing from a position's past
-> Specify the entry you want to remove from the position’s past and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the past of the position ‘Sales Team’ the entry ‘Won the regional sales award in 2023’ because it was recorded incorrectly.”
-### Adding to a member's past
-> Provide the content you want to add to the member’s past. No justification is needed when adding. For example, you could tell BigManage: “Add to the past of the member ‘John Doe’: ‘Completed leadership training in 2022.’”
-### Removing from a member's past
-> Specify the entry you want to remove from the member’s past and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the past of the member ‘John Doe’ the entry ‘Completed leadership training in 2022’ because it was entered by mistake.”
+## Context
+##### Context is a way of assigning meaning in text to the company, specific positions or individual members.
+### Adding to the company's context
+> Provide the content you want to add to the company’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s context: ‘Launched new product line in 2021.’”
+### Removing from the company's context
+> Specify the entry you want to remove from the company’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the company’s context the entry ‘Launched new product line in 2021’ because it was recorded incorrectly.”
+### Adding to a position's context
+> Provide the content you want to add to the position’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the context of the position ‘Sales Team’: ‘Won the regional sales award in 2023.’”
+### Removing from a position's context
+> Specify the entry you want to remove from the position’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the context of the position ‘Sales Team’ the entry ‘Won the regional sales award in 2023’ because it was recorded incorrectly.”
+### Adding to a member's context
+> Provide the content you want to add to the member’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the context of the member ‘John Doe’: ‘Completed leadership training in 2022.’”
+### Removing from a member's context
+> Specify the entry you want to remove from the member’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the context of the member ‘John Doe’ the entry ‘Completed leadership training in 2022’ because it was entered by mistake.”
 
 ## Instructions
 ##### Instructions are guidelines or directions that can be given to the company, positions or members.
