@@ -254,71 +254,54 @@ Email Support: contact@idealistic.ai
 ### Updating a list
 > Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content. For example, you could tell BigManage: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’”
 
-## Cases
-##### Cases are records of issues, tasks or projects that involve members, customers or goods & services.
-### Creating a case
-> Specify the name of the case you want to open. You can also explain why the case is being created. For example, you could tell BigManage: “Create a case called ‘Client Onboarding Issue’ because of recent delays” or “Open a new case named ‘Server Migration’ due to upcoming infrastructure changes.”
-### Selecting a case
-> Specify the case you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the case ‘Client Onboarding Issue’ for active tracking” or “Deselect case 12 because it is no longer relevant.”
-### Renaming a case
-> Provide the new name for the case you want to rename. You can refer to the case by its current name or ID and add a brief reason if you want. For example, you could tell BigManage: “Rename the case ‘Client Onboarding Issue’ to ‘Client Onboarding — Payments’ because the scope was narrowed to billing.”
-### Opening the selected case
-> Open the currently selected case. For example, you could tell BigManage: “Open the selected case” or “Open the case Financial Changes”
-### Closing the selected case
-> Close the currently selected case. For example, you could tell BigManage: “Close the selected case” or “Close the case Marketing Goals”
-### Adding a comment on the selected case
-> Add a comment to the currently selected case by specifying the text of your comment. For example, you could tell BigManage: “Add comment ‘Reviewed financial projections’ to the selected case.”
-### Removing a comment from the selected case
-> Remove a comment from the currently selected case by specifying the comment ID. For example, you could tell BigManage: “Remove comment 42 from the selected case.” or "Remove the comment "I will do it tomorrow' from the case Financial Changes"
-### Adding a member to the selected case
-> Add a member to the participants of the currently selected case by specifying their name, email or ID. For example, you could tell BigManage: “Add member 1023 to the selected case”
-### Removing a member from the selected case
-> Remove a member from the participants of the currently selected case by specifying their name, email or ID. For example, you could tell BigManage: “Remove member 1023 from the selected case”
-### Attaching a customer to the selected case
-> Attach a customer to the currently selected case by specifying the customer’s name or ID. For example, you could tell BigManage: “Attach customer 5021 to the selected case”
-### Detaching a customer from the selected case
-> Remove a customer from the currently selected case by specifying the customer’s name or ID. For example, you could tell BigManage: “Detach customer 5021 from the selected case”
-### Attaching a goods & service to the selected case
-> Attach a goods or service item to the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Attach goods/service 305 to the selected case”
-### Detaching a goods & service from the selected case
-> Remove a goods or service item from the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Detach goods/service 305 from the selected case”
-### Attaching an entity to the selected case
-> Attach an entity to the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Attach entity ‘SeedFund Ltd.’ to the selected case”
-### Detaching an entity from the selected case
-> Remove an entity from the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Detach entity ‘SeedFund Ltd.’ from the selected case”
-### Attaching a shareholder to the selected case
-> Attach a shareholder to the currently selected case by specifying their name or ID. For example, you could tell BigManage: “Attach shareholder ‘Jane Doe’ to the selected case”
-### Detaching a shareholder from the selected case
-> Remove a shareholder from the currently selected case by specifying their name or ID. For example, you could tell BigManage: “Detach shareholder ‘Jane Doe’ from the selected case”
-### Attaching a list to the selected case
-> Attach a list (e.g., checklist or contact list) to the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Attach list ‘Onboarding Checklist’ to the selected case”
-### Detaching a list from the selected case
-> Remove a list from the currently selected case by specifying its name or ID. For example, you could tell BigManage: “Detach list ‘Onboarding Checklist’ from the selected case”
-
-## Targets
-##### Targets represent goals or objectives linked to cases of the company.
-### Creating a target
-> Specify the name of the target you want to create. You can also explain why the target is being created. For example, you could tell BigManage: “Create a target called ‘Q3 Sales Goal’ because we need to track performance” or “Open a new target named ‘Website Redesign’ due to upcoming project requirements.”
-### Selecting a target
-> Specify the target you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the target ‘Q3 Sales Goal’ for active tracking” or “Deselect target 7 because it is no longer relevant.”
-### Renaming a target
-> Provide the new name for the target you want to rename. You can refer to the target by its current name or ID and add a brief reason if you want. For example, you could tell BigManage: “Rename the target ‘Q3 Sales Goal’ to ‘Q3 Revenue Objective’ because the focus shifted to revenue.”
-### Opening the selected target
-> Open the currently selected target. You can also explain why the target is being opened. For example, you could tell BigManage: “Open the selected target because it is now a priority” or “Open the selected target due to upcoming deadlines.”
-### Closing the selected target
-> Close the currently selected target. You can also explain why the target is being closed. For example, you could tell BigManage: “Close the selected target because it has been achieved” or “Close the selected target due to project completion.”
-### Adding a member to the selected target
-> Add a member to the currently selected target by specifying their name, email or ID. You can also explain why the member is being added. For example, you could tell BigManage: “Add member John Doe to the selected target because they are responsible for this task” or “Add member 1023 to the selected target to assist with completion.”
-### Removing a member from the selected target
-> Remove a member from the currently selected target by specifying their name, email or ID. You can also explain why the member is being removed. For example, you could tell BigManage: “Remove member John Doe from the selected target because their assignment is complete” or “Remove member 1023 from the selected target due to reassignment.”
-### Setting custom progress to a target
-> Set a target’s progress to a specific percentage (for example 45%). Refer to the target by name or ID and you can also say why you’re adjusting it. For example, you could tell BigManage: “Set the progress of target ‘Q3 Revenue Objective’ to 45% because half the milestones are complete.”
-### Unsetting the custom progress of a target
-> Remove the custom progress value for the currently selected target and, if you want, say why. For example, you could tell BigManage: “Remove the custom progress for the selected target because the manual update was entered in error.”
-### Attaching a case to the selected target
-> Attach a case to the currently selected target by specifying the case name or ID. You can also explain why the case is being attached. For example, you could tell BigManage: “Attach case ‘Q2 Sales Report’ to the selected target because it is relevant to achieving this goal” or “Attach case 305 to the selected target for tracking purposes.”
-### Detaching a case from the selected target
-> Remove a case from the currently selected target by specifying the case name or ID. You can also explain why the case is being detached. For example, you could tell BigManage: “Detach case ‘Q2 Sales Report’ from the selected target because it is no longer relevant” or “Detach case 305 from the selected target for reassignment.”
+## Topics
+##### Topics are records of issues, tasks or projects that involve members, customers, goods & services, etc.
+### Creating a topic
+> Specify the name of the topic you want to open. You can also explain why the topic is being created. For example, you could tell BigManage: “Create a topic called ‘Client Onboarding Issue’ because of recent delays” or “Open a new topic named ‘Server Migration’ due to upcoming infrastructure changes.”
+### Selecting a topic
+> Specify the topic you want to select or deselect by its name or ID. For example, you could tell BigManage: “Select the topic ‘Client Onboarding Issue’ for active tracking” or “Deselect topic 12 because it is no longer relevant.”
+### Renaming a topic
+> Provide the new name for the topic you want to rename. You can refer to the topic by its current name or ID and add a brief reason if you want. For example, you could tell BigManage: “Rename the topic ‘Client Onboarding Issue’ to ‘Client Onboarding — Payments’ because the scope was narrowed to billing.”
+### Opening the selected topic
+> Open the currently selected topic. For example, you could tell BigManage: “Open the selected topic” or “Open the topic Financial Changes”
+### Closing the selected topic
+> Close the currently selected topic. For example, you could tell BigManage: “Close the selected topic” or “Close the topic Marketing Goals”
+### Adding a comment on the selected topic
+> Add a comment to the currently selected topic by specifying the text of your comment. For example, you could tell BigManage: “Add comment ‘Reviewed financial projections’ to the selected topic.”
+### Removing a comment from the selected topic
+> Remove a comment from the currently selected topic by specifying the comment ID. For example, you could tell BigManage: “Remove comment 42 from the selected topic.” or "Remove the comment "I will do it tomorrow' from the topic Financial Changes"
+### Adding a member to the selected topic
+> Add a member to the participants of the currently selected topic by specifying their name, email or ID. For example, you could tell BigManage: “Add member 1023 to the selected topic”
+### Removing a member from the selected topic
+> Remove a member from the participants of the currently selected topic by specifying their name, email or ID. For example, you could tell BigManage: “Remove member 1023 from the selected topic”
+### Attaching a customer to the selected topic
+> Attach a customer to the currently selected topic by specifying the customer’s name or ID. For example, you could tell BigManage: “Attach customer 5021 to the selected topic”
+### Detaching a customer from the selected topic
+> Remove a customer from the currently selected topic by specifying the customer’s name or ID. For example, you could tell BigManage: “Detach customer 5021 from the selected topic”
+### Attaching a goods & service to the selected topic
+> Attach a goods or service item to the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Attach goods/service 305 to the selected topic”
+### Detaching a goods & service from the selected topic
+> Remove a goods or service item from the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Detach goods/service 305 from the selected topic”
+### Attaching an entity to the selected topic
+> Attach an entity to the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Attach entity ‘SeedFund Ltd.’ to the selected topic”
+### Detaching an entity from the selected topic
+> Remove an entity from the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Detach entity ‘SeedFund Ltd.’ from the selected topic”
+### Attaching a shareholder to the selected topic
+> Attach a shareholder to the currently selected topic by specifying their name or ID. For example, you could tell BigManage: “Attach shareholder ‘Jane Doe’ to the selected topic”
+### Detaching a shareholder from the selected topic
+> Remove a shareholder from the currently selected topic by specifying their name or ID. For example, you could tell BigManage: “Detach shareholder ‘Jane Doe’ from the selected topic”
+### Attaching a list to the selected topic
+> Attach a list (e.g., checklist or contact list) to the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Attach list ‘Onboarding Checklist’ to the selected topic”
+### Detaching a list from the selected topic
+> Remove a list from the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Detach list ‘Onboarding Checklist’ from the selected topic”
+> ### Setting progress to a topic
+> Set a topic’s progress to a specific percentage (for example 45%). Refer to the topic by name or ID and you can also say why you’re adjusting it. For example, you could tell BigManage: “Set the progress of topic ‘Q3 Revenue Objective’ to 45% because half the milestones are complete.”
+### Unsetting the progress of a topic
+> Remove the custom progress value for the currently selected topic and, if you want, say why. For example, you could tell BigManage: “Remove the custom progress for the selected topic because the manual update was entered in error.”
+### Attaching a topic to the selected topic
+> Attach a topic to the currently selected topic by specifying the topic name or ID. You can also explain why the topic is being attached. For example, you could tell BigManage: “Attach topic ‘Q2 Sales Report’ to the selected topic because it is relevant to achieving this goal” or “Attach topic 305 to the selected topic for tracking purposes.”
+### Detaching a topic from the selected topic
+> Remove a topic from the currently selected topic by specifying the topic name or ID. You can also explain why the topic is being detached. For example, you could tell BigManage: “Detach topic ‘Q2 Sales Report’ from the selected topic because it is no longer relevant” or “Detach topic 305 from the selected topic for reassignment.”
 
 ## Weekly Schedule
 ##### ...
@@ -338,4 +321,4 @@ Email Support: contact@idealistic.ai
 ## Website View
 ##### A website view is a temporary link/URL that can be accessed with a code and aims to visually show most of the the structure of the company.
 ### Creating a website view
-> Create a website view by simply requesting the creation of one. For example, you could tell BigManage: "Create a website view because I want to see all the comments of the recent cases" or "I want a website view URL so I can study the total shareholders of the company"
+> Create a website view by simply requesting the creation of one. For example, you could tell BigManage: "Create a website view because I want to see all the comments of the recent topics" or "I want a website view URL so I can study the total shareholders of the company"
