@@ -125,31 +125,18 @@ Email Support: contact@idealistic.ai
 ### Toggling software training
 > Specify whether you want to enable or disable software training. You can explicitly set the status or simply toggle it. For example, you could tell BigManage: “Enable software training”, “Disable software training”, or “Toggle software training.”
 
-## Reminders
-##### Reminders notify the company, specific positions or individual members about important tasks or events. They can be set to occur once, multiple times or on a regular schedule.
-### Creating a reminder for the company
-> Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Monthly Report’ to start in 60 seconds, repeat every 3600 seconds because the report is due” or “Set a reminder ‘Company Meeting’ to start in 86400 seconds, repeating daily because of the weekly meeting schedule.”
-### Creating a reminder for one or multiple positions
-> Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. Identify the positions by their ID or name. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Quarterly Report’ for the Finance Manager position to start in 60 seconds, repeat every 3600 seconds because the report is due” or “Set a reminder ‘Team Meeting’ for the Support and Sales positions to start in 120 seconds, repeating daily because of project updates.”
-### Creating a reminder for one or multiple members
-> Specify the reminder’s name, when it should start, how often it should repeat, and when it should expire. Identify the members by their ID, name, or email. You can also explain why the reminder is being created. For example, you could tell BigManage: “Create a reminder called ‘Submit Timesheet’ for member 1023 to start in 60 seconds, repeat every 3600 seconds because the deadline is approaching” or “Set a reminder ‘Update Profile’ for members Jane Doe and John Smith to start in 120 seconds, repeating daily because of HR requirements.”
-### Deleting a reminder
-> Specify the reminder you want to remove by its ID or name. For example, you could tell BigManage: “Delete the reminder ‘Monthly Report’ because it is no longer relevant” or “Remove reminder 12”
-### Restoring a reminder
-> Specify by its ID or name which removed reminder you want to bring back. For example, you could tell BigManage: “Restore the reminder ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ reminder since it’s still needed.”
-
-## Deadlines
-##### Deadlines notify the company, specific positions or individual members about important tasks that must be completed in a certain timeframe.
-### Creating a deadline for the company
-> Specify the deadline’s name, when it should start and when it should expire. You can also explain why the deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Monthly Report’ to start in 60 seconds because the report is due” or “Set a deadline ‘Company Meeting’ to start in a day because of the weekly meeting schedule.”
-### Creating a deadline for one or multiple positions
-> Specify the deadline’s name, when it should start and when it should expire. Identify the positions by their ID or name. You can also explain why the deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Quarterly Report’ for the Finance Manager position to start in 60 seconds because the report is due” or “Set a deadline ‘Team Meeting’ for the Support and Sales positions to start in 120 seconds because of project updates.”
-### Creating a deadline for one or multiple members
-> Specify the deadline’s name, when it should start and when it should expire. Identify the members by their ID, name, or email. You can also explain why the deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Submit Timesheet’ for member 1023 to start in 60 seconds because the deadline is approaching” or “Set a deadline ‘Update Profile’ for members Jane Doe and John Smith to start in 120 seconds because of HR requirements.”
-### Deleting a deadline
-> Specify the deadline you want to remove by its ID or name. For example, you could tell BigManage: “Delete the deadline ‘Monthly Report’ because it is no longer relevant” or “Remove deadline 12”
-### Restoring a deadline
-> Specify by its ID or name which removed deadline you want to bring back. For example, you could tell BigManage: “Restore the deadline ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ deadline since it’s still needed.”
+## Reminders & Deadlines
+##### Reminders & deadlines notify the company, specific positions or individual members about important tasks or events. They can be set to occur once, multiple times or on a regular schedule.
+### Creating a reminder or deadline for the company
+> Specify the reminder’s or deadline's name, when it should start, how often it should repeat, and when it should expire. You can also explain why the reminder or deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Monthly Report’ to start in 60 seconds, repeat every 3600 seconds because the report is due” or “Set a reminder ‘Company Meeting’ to start in 86400 seconds, repeating daily because of the weekly meeting schedule.”
+### Creating a reminder or deadline for one or multiple positions
+> Specify the reminder’s or deadline's name, when it should start, how often it should repeat, and when it should expire. Identify the positions by their ID or name. You can also explain why the reminder or deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Quarterly Report’ for the Finance Manager position to start in 60 seconds, repeat every 3600 seconds because the report is due” or “Set a reminder ‘Team Meeting’ for the Support and Sales positions to start in 120 seconds, repeating daily because of project updates.”
+### Creating a reminder or deadline for one or multiple members
+> Specify the reminder’s or deadline's name, when it should start, how often it should repeat, and when it should expire. Identify the members by their ID, name, or email. You can also explain why the reminder or deadline is being created. For example, you could tell BigManage: “Create a deadline called ‘Submit Timesheet’ for member 1023 to start in 60 seconds, repeat every 3600 seconds because the deadline is approaching” or “Set a reminder ‘Update Profile’ for members Jane Doe and John Smith to start in 120 seconds, repeating daily because of HR requirements.”
+### Deleting a reminder or deadline
+> Specify the reminder or deadline you want to remove by its ID or name. For example, you could tell BigManage: “Delete the reminder ‘Monthly Report’ because it is no longer relevant” or “Remove deadline 12”
+### Restoring a reminder or deadline
+> Specify by its ID or name which removed reminder or deadline you want to bring back. For example, you could tell BigManage: “Restore the reminder ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ deadline since it’s still needed.”
 
 ## Context
 ##### Context is a way of assigning meaning in text to the company, specific positions or individual members.
@@ -195,83 +182,6 @@ Email Support: contact@idealistic.ai
 > BigManage lets you upload files like images, audio, documents, and more along with your messages. Keep in mind that the types of files you can upload may vary depending on the platform you’re using—some platforms support more file types than others. For example, you could tell BigManage: “Upload this image and attach the PDF report to the message.”
 ### Finding uploaded/created attachments
 > Provide keywords to search for attachments and specify the type of file you want (attachments, image, document, audio, or video). You can also indicate whether to search among uploaded files, created files, or both. For example, you could tell BigManage: “Find all documents containing ‘Quarterly Report’ that were created by the company” or “Search for images with the keyword ‘Logo’ among uploaded files.”
-
-## Links
-##### Links store and organize external resources connected to the company, positions, members or in general.
-### Studying a link
-> Provide the link or URL you want BigManage to study, and include an answer if there’s a specific question related to it. For example, you could tell BigManage: “Study this URL: https://example.com and summarize the main points” or “Analyze this link and answer question 3 regarding its content.”
-### Adding to the company's links
-> Provide the URL and a reference name for the link. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a link called ‘Company Website’ with URL ‘https://example.com’ because it is the official website.”
-### Removing from the company's links
-> Indicate which link to remove, optionally including a justification. You can refer to the link by its reference name or a number pointer if there are multiple links. For example, you could tell BigManage: “Remove the link called ‘Company Website’ because it is no longer active.”
-### Adding to a position's links
-> Provide the URL and a reference name for the link. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add a link called ‘Project Guidelines’ with URL ‘https://example.com/guidelines’ to the position ‘Sales Team’ because it’s important for their workflow.”
-### Removing from a position's links
-> Specify the position by name or ID and indicate which link to remove, optionally including a justification. You can refer to the link by its reference name or a number pointer if there are multiple links. For example, you could tell BigManage: “Remove the link called ‘Project Guidelines’ from the position ‘Sales Team’ because it is outdated.”
-### Adding to a member's links
-> Provide the URL and a reference name for the link. You can also include an optional justification explaining why it’s being added. Refer to the member by name, email, or ID. For example, you could tell BigManage: “Add a link called ‘Portfolio’ with URL ‘https://example.com/johndoe’ to the member ‘John Doe’ because it showcases his work.”
-### Removing from a member's links
-> Specify the member by name, email, or ID and indicate which link to remove, optionally including a justification. You can refer to the link by its reference name or a number pointer if there are multiple links. For example, you could tell BigManage: “Remove the link called ‘Portfolio’ from the member ‘John Doe’ because it is no longer relevant.”
-
-## Emails
-##### Emails store contact addresses for the company, its positions, or members, helping with communication and record-keeping.
-### Adding to the company's emails
-> Provide the email address and a reference name. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add an email ‘info@example.com’ with reference name ‘Main Inbox’ because it will be used for official company communications.”
-### Removing from the company's emails
-> Indicate which email to remove, optionally including a justification. You can refer to the email by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the email called ‘Main Inbox’ because it is no longer in use.”
-### Adding to a position's emails
-> Provide the email address and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add an email ‘sales@example.com’ with reference name ‘Sales Inbox’ to the position ‘Sales Team’ because it will be used for client communications.”
-### Removing from a position's emails
-> Specify the position by name or ID and indicate which email to remove, optionally including a justification. You can refer to the email by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the email called ‘Sales Inbox’ from the position ‘Sales Team’ because it is no longer in use.”
-### Adding to a member's emails
-> Provide the email address and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the member by name, email, or ID. For example, you could tell BigManage: “Add an email ‘johndoe@example.com’ with reference name ‘Work Email’ to the member ‘John Doe’ because it will be used for official communications.”
-### Removing from a member's emails
-> Specify the member by name, email, or ID and indicate which email to remove, optionally including a justification. You can refer to the email by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the email called ‘Work Email’ from the member ‘John Doe’ because it is no longer active.”
-
-## Phone Numbers
-##### Phone numbers are stored for company, position or member contact details.
-### Adding to the company's phone numbers
-> Provide the phone number and a reference name. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a phone number ‘+30 210 9999999’ with reference name ‘Main Line’ because it will be used for company communications.”
-### Removing from the company's phone numbers
-> Indicate which phone number to remove, optionally including a justification. You can refer to the phone number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the phone number called ‘Main Line’ because it is no longer active.”
-### Adding to a position's phone numbers
-> Provide the phone number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add a phone number ‘+30 210 1234567’ with reference name ‘Sales Line’ to the position ‘Sales Team’ because it will be used for client calls.”
-### Removing from a position's phone numbers
-> Specify the position by name or ID and indicate which phone number to remove, optionally including a justification. You can refer to the phone number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the phone number called ‘Sales Line’ from the position ‘Sales Team’ because it is no longer in use.”
-### Adding to a member's phone numbers
-> Provide the phone number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the member by name, email, or ID. For example, you could tell BigManage: “Add a phone number ‘+30 210 7654321’ with reference name ‘John Line’ to the member ‘John Doe’ because it will be used for work-related calls.”
-### Removing from a member's phone numbers
-> Specify the member by name, email, or ID and indicate which phone number to remove, optionally including a justification. You can refer to the phone number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the phone number called ‘John Line’ from the member ‘John Doe’ because it is no longer active.”
-
-## Fax Numbers
-##### Fax numbers can be added and managed for the company, positions or members when needed.
-### Adding to the company's fax numbers
-> Provide the fax number and a reference name. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a fax number ‘+30 210 9999999’ with reference name ‘Main Fax’ because it will be used for official company communications.”
-### Removing from the company's fax numbers
-> Indicate which fax number to remove, optionally including a justification. You can refer to the fax number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the fax number called ‘Main Fax’ because it is no longer active.”
-### Adding to a position's fax numbers
-> Provide the fax number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or ID. For example, you could tell BigManage: “Add a fax number ‘+30 210 1234567’ with reference name ‘Sales Fax’ to the position ‘Sales Team’ because it will be used for official documents.”
-### Removing from a position's fax numbers
-> Specify the position by name or ID and indicate which fax number to remove, optionally including a justification. You can refer to the fax number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the fax number called ‘Sales Fax’ from the position ‘Sales Team’ because it is no longer in use.”
-### Adding to a member's fax numbers
-> Provide the fax number and a reference name. You can also include an optional justification explaining why it’s being added. Refer to the member by name, email, or ID. For example, you could tell BigManage: “Add a fax number ‘+30 210 7654321’ with reference name ‘John Fax’ to the member ‘John Doe’ because it will be used for official documents.”
-### Removing from a member's fax numbers
-> Specify the member by name, email, or ID and indicate which fax number to remove, optionally including a justification. You can refer to the fax number by its reference name or a number pointer if there are multiple. For example, you could tell BigManage: “Remove the fax number called ‘John Fax’ from the member ‘John Doe’ because it is no longer active.”
-
-## Physical Addresses
-##### Physical addresses record the locations of the company, positions or members.
-### Adding to the company's physical addresses
-> Provide a reference name for the address and the address itself. You can also include an optional justification explaining why it’s being added. Since you’re already part of the company, no additional reference is needed. For example, you could tell BigManage: “Add a physical address called ‘Head Office’ with address ‘123 Main Street, Athens’ because it’s the new company headquarters.”
-### Removing from the company's physical addresses
-> Indicate which physical address to remove, optionally including a justification. You can refer to the address by its reference name or a number pointer if there are multiple addresses. For example, you could tell BigManage: “Remove the physical address called ‘Head Office’ because the company has relocated.”
-### Adding to a position's physical addresses
-> Provide a reference name for the address and the address itself. You can also include an optional justification explaining why it’s being added. Refer to the position by its name or, if you prefer, its ID. For example, you could tell BigManage: “Add a physical address called ‘Head Office’ with address ‘123 Main Street, Athens’ to the position ‘Sales Team’ because it’s the new office location.”
-### Removing from a position's physical addresses
-> Specify the position by name or ID and indicate which physical address to remove, optionally including a justification. You can refer to the address by its reference name or a number pointer if there are multiple addresses. For example, you could tell BigManage: “Remove the physical address called ‘Head Office’ from the position ‘Sales Team’ because it is no longer used.”
-### Adding to a member's physical addresses
-> Provide a reference name for the address and the address itself. You can also include an optional justification explaining why it’s being added. Refer to the member by name, email, or ID. For example, you could tell BigManage: “Add a physical address called ‘Home Office’ with address ‘45 Maple Street, Athens’ to the member ‘John Doe’ because it’s his current work location.”
-### Removing from a member's physical addresses
-> Specify the member by name, email, or ID and indicate which physical address to remove, optionally including a justification. You can refer to the address by its reference name or a number pointer if there are multiple addresses. For example, you could tell BigManage: “Remove the physical address called ‘Home Office’ from the member ‘John Doe’ because he no longer works there.”
 
 ## Customers
 ##### Customers are internal or external people to the company that the company offers goods/services to.
