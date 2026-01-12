@@ -74,27 +74,33 @@ Email Support: contact@idealistic.ai
 > Specify the position you want to detach by its ID or name. You can also explain why the position is being removed from the department. For example, you could tell BigManage: “Remove the Finance Manager position from the Accounting department because of restructuring” or “Unassign position 5 from its department due to position changes.”
 
 ## General Access
-##### General access controls what members, positions or the entire company can do by default. For example, it can allow full access, block access entirely while hiding past information or block access while keeping past information visible to other members.
+##### General access controls what members, departments, positions or the entire company can do by default. For example, it can allow full access, block access entirely while hiding past information or block access while keeping past information visible to other members.
 ### Managing the company's general access
 > Modify the company’s general access level by specifying the desired access (e.g., full access or no access). You can also optionally provide a justification for the change. For example, you could tell BigManage: “Set general access to full access” or “Revoke general access with justification: security concerns.”
+### Managing a department's general access
+> Modify the general access level of a specific department by specifying the department’s ID and the desired access (e.g., full access or no access). You can also optionally provide a justification for the change. For example, you could tell BigManage: “Revoke access for the IT department with justification: security reasons.”
 ### Managing a position's general access
 > Modify the general access level of a specific position by specifying the position’s ID and the desired access (e.g., full access or no access). You can also optionally provide a justification for the change. For example, you could tell BigManage: “Set access for the Finance Manager position to full access” or “Revoke access for the Junior Developer position with justification: security reasons.”
 ### Managing a member's general access
 > Modify the general access level of a specific member by specifying the member’s ID and the desired access type—such as no access, past access (historical retention), or full access. You can also optionally provide a justification for the change. For example, you could tell BigManage: “Grant full access to member 1023” or “Revoke access for member 2045 with justification: project reassignment.”
 
 ## Time Access
-##### Time access sets limits on when members, positions or the company can perform certain actions based on the day's time.
+##### Time access sets limits on when members, departments, positions or the company can perform certain actions based on the day's time.
 ### Managing the company's time access
 > Specify the start and end times (hours and minutes) for the company’s default access. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the company’s time access from 08:00 to 18:00 because of updated working hours” or “Change the company’s access to 09:00–17:00 due to shift adjustments.”
+### Managing a department's time access
+> Specify the start and end times (hours and minutes) for a department’s access. Identify the department by its ID or name. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the time access of department ‘Sales’ from 09:30 to 17:45 because of a project deadline” or “Change the time access of department 5 to 08:00–16:00 due to shift adjustments.”
 ### Managing a position's time access
 > Specify the start and end times (hours and minutes) for a position’s access. Identify the position by its ID or name. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the time access of position ‘Sales Team’ from 09:30 to 17:45 because of a project deadline” or “Change the time access of position 5 to 08:00–16:00 due to shift adjustments.”
 ### Managing a member's time access
 > Specify the member by their ID, name, or email and set their access level. You can also explain why the access should be modified. For example, you could tell BigManage: “Set the access level of member 1023 to full access because they are leading a critical project” or “Change the access of member ‘Jane Doe’ to limited access due to position change.”
 
 ## Week's Day Access
-##### Week's Day access sets limits on when members, positions or the company can perform certain actions based on the day of the week.
+##### Week's Day access sets limits on when members, departments, positions or the company can perform certain actions based on the day of the week.
 ### Managing the company's week's day access
 > Define which days of the week the company should have operational access, and optionally include a justification for the change. You can specify individual days or a full weekly schedule. For example, you could tell BigManage: “Set the company’s access to Monday through Friday because we’re adopting a standard workweek” or “Enable company access on Saturday and Sunday due to weekend operations.”
+### Managing a department's week's day access
+> Specify which days of the week a particular department should have system access, identifying the department by name or ID. You can also provide a justification for the change. For example, you could tell BigManage: “Set the Sales Team’s access to Monday through Saturday because of client demand” or “Disable Friday access for department ‘Interns’ due to updated work schedule.”
 ### Managing a position's week's day access
 > Specify which days of the week a particular position should have system access, identifying the position by name or ID. You can also provide a justification for the change. For example, you could tell BigManage: “Set the Sales Team’s access to Monday through Saturday because of client demand” or “Disable Friday access for position ‘Intern’ due to updated work schedule.”
 ### Managing a member's week's day access
@@ -145,9 +151,9 @@ Email Support: contact@idealistic.ai
 ### Removing from the company's context
 > Specify the entry you want to remove from the company’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the company’s context the entry ‘Launched new product line in 2021’ because it was recorded incorrectly.”
 ### Adding to a department's context
-> Provide the content you want to add to the department’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the context of the department ‘Sales Team’: ‘Won the regional sales award in 2023.’”
+> Provide the content you want to add to the department’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the context of the department ‘Sales’: ‘Won the regional sales award in 2023.’”
 ### Removing from a department's context
-> Specify the entry you want to remove from the department’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the context of the department ‘Sales Team’ the entry ‘Won the regional sales award in 2023’ because it was recorded incorrectly.”
+> Specify the entry you want to remove from the department’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the context of the department ‘Sales’ the entry ‘Won the regional sales award in 2023’ because it was recorded incorrectly.”
 ### Adding to a position's context
 > Provide the content you want to add to the position’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the context of the position ‘Sales Team’: ‘Won the regional sales award in 2023.’”
 ### Removing from a position's context
@@ -164,9 +170,9 @@ Email Support: contact@idealistic.ai
 ### Removing from the company's instructions
 > Specify the instruction you want to remove from the company and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the company’s instructions the instruction ‘All outgoing invoices must be approved by the finance manager’ because the process has changed.”
 ### Adding to a department's instructions
-> Provide the instruction you want to add to the department. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the position ‘Sales Team’: ‘Always follow the client onboarding checklist.’”
+> Provide the instruction you want to add to the department. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the position ‘Sales’: ‘Always follow the client onboarding checklist.’”
 ### Removing from a department's instructions
-> Specify the instruction you want to remove from the department and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the instructions of the department ‘Sales Team’ the instruction ‘Always follow the client onboarding checklist’ because it has been updated.”
+> Specify the instruction you want to remove from the department and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the instructions of the department ‘Sales’ the instruction ‘Always follow the client onboarding checklist’ because it has been updated.”
 ### Adding to a position's instructions
 > Provide the instruction you want to add to the position. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the position ‘Sales Team’: ‘Always follow the client onboarding checklist.’”
 ### Removing from a position's instructions
