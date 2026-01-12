@@ -318,13 +318,17 @@ Email Support: contact@idealistic.ai
 > Remove a topic from the currently selected topic by specifying the topic name or ID. You can also explain why the topic is being detached. For example, you could tell BigManage: “Detach topic ‘Q2 Sales Report’ from the selected topic because it is no longer relevant” or “Detach topic 305 from the selected topic for reassignment.”
 
 ## Weekly Schedule
-##### Weekly schedule organizes members, positions and the company around certain actions that should be performed based on the week's time.
+##### Weekly schedule organizes members, departments, positions and the company around certain actions that should be performed based on the week's time.
 ### Adding to a member's weekly schedule
 > Add a schedule entry to a single member by specifying the member and the day and time it should apply. A justification is required, and you can optionally say how long the entry should last using a natural time description. For example, you could tell BigManage: “Add a schedule entry for member John Smith on Wednesday at 14:30 with justification: weekly coordination meeting, lasting for two hours” or “Schedule member Alex Brown on Friday at 09:00 with justification: client onboarding, expiring after one hour.”
 ### Removing from a member's weekly schedule
 > Remove a schedule entry from a single member by specifying the member and the exact day and time of the entry. You may also include an optional justification explaining why it’s being removed. For example, you could tell BigManage: “Remove the schedule entry for member John Smith on Tuesday at 10:00 because the meeting was canceled” or “Delete Alex Brown’s schedule on Friday at 16:30 since the task was completed earlier.”
+### Adding to a department's weekly schedule
+> Add a schedule entry to a department by specifying the department and the day and time the entry should apply. You can also include a justification explaining why this schedule is being added. For example, you could tell BigManage: “Add a schedule entry to the Sales department on Monday at 09:00 because of the weekly planning meeting”
+### Removing from a department's weekly schedule
+> Remove a schedule entry from a department by specifying the department and the exact day and time of the entry. You may optionally explain why the schedule is being removed. For example, you could tell BigManage: “Remove the schedule entry from the Customer Support department on Wednesday at 14:00 because the shift was reassigned” or “Delete the schedule for the Interns department on Friday at 12:30 since the training session was canceled.”
 ### Adding to a position's weekly schedule
-> Add a schedule entry to a position by specifying the position and the day and time the entry should apply. You can also include a justification explaining why this schedule is being added. For example, you could tell BigManage: “Add a schedule entry to the Sales Manager position on Monday at 09:00 because of the weekly planning meeting” or “Schedule the Night Shift role on Saturday at 22:00 due to increased workload.”
+> Add a schedule entry to a position by specifying the position and the day and time the entry should apply. You can also include a justification explaining why this schedule is being added. For example, you could tell BigManage: “Add a schedule entry to the Sales Manager position on Monday at 09:00 because of the weekly planning meeting”
 ### Removing from a position's weekly schedule
 > Remove a schedule entry from a position by specifying the position and the exact day and time of the entry. You may optionally explain why the schedule is being removed. For example, you could tell BigManage: “Remove the schedule entry from the Customer Support position on Wednesday at 14:00 because the shift was reassigned” or “Delete the schedule for the Intern position on Friday at 12:30 since the training session was canceled.”
 ### Adding to the company's weekly schedule
