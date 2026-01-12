@@ -294,7 +294,7 @@ Email Support: contact@idealistic.ai
 > Attach a list (e.g., checklist or contact list) to the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Attach list ‘Onboarding Checklist’ to the selected topic”
 ### Detaching a list from the selected topic
 > Remove a list from the currently selected topic by specifying its name or ID. For example, you could tell BigManage: “Detach list ‘Onboarding Checklist’ from the selected topic”
-> ### Setting progress to a topic
+### Setting progress to a topic
 > Set a topic’s progress to a specific percentage (for example 45%). Refer to the topic by name or ID and you can also say why you’re adjusting it. For example, you could tell BigManage: “Set the progress of topic ‘Q3 Revenue Objective’ to 45% because half the milestones are complete.”
 ### Unsetting the progress of a topic
 > Remove the custom progress value for the currently selected topic and, if you want, say why. For example, you could tell BigManage: “Remove the custom progress for the selected topic because the manual update was entered in error.”
@@ -304,7 +304,7 @@ Email Support: contact@idealistic.ai
 > Remove a topic from the currently selected topic by specifying the topic name or ID. You can also explain why the topic is being detached. For example, you could tell BigManage: “Detach topic ‘Q2 Sales Report’ from the selected topic because it is no longer relevant” or “Detach topic 305 from the selected topic for reassignment.”
 
 ## Weekly Schedule
-##### ...
+##### Weekly schedule organizes members, positions and the company around certain actions that should be performed based on the week's time.
 ### Adding to a member's weekly schedule
 > Add a schedule entry to a single member by specifying the member and the day and time it should apply. A justification is required, and you can optionally say how long the entry should last using a natural time description. For example, you could tell BigManage: “Add a schedule entry for member John Smith on Wednesday at 14:30 with justification: weekly coordination meeting, lasting for two hours” or “Schedule member Alex Brown on Friday at 09:00 with justification: client onboarding, expiring after one hour.”
 ### Removing from a member's weekly schedule
