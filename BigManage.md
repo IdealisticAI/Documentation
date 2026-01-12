@@ -139,11 +139,15 @@ Email Support: contact@idealistic.ai
 > Specify by its ID or name which removed reminder or deadline you want to bring back. For example, you could tell BigManage: “Restore the reminder ‘Call Client X’ that was deleted by mistake” or “Bring back the ‘Monthly Invoice Check’ deadline since it’s still needed.”
 
 ## Context
-##### Context is a way of assigning meaning in text to the company, specific positions or individual members.
+##### Context is a way of assigning meaning in text to the company, specific departments, specific positions or individual members.
 ### Adding to the company's context
 > Provide the content you want to add to the company’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s context: ‘Launched new product line in 2021.’”
 ### Removing from the company's context
 > Specify the entry you want to remove from the company’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the company’s context the entry ‘Launched new product line in 2021’ because it was recorded incorrectly.”
+### Adding to a department's context
+> Provide the content you want to add to the department’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the context of the department ‘Sales Team’: ‘Won the regional sales award in 2023.’”
+### Removing from a department's context
+> Specify the entry you want to remove from the department’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the context of the department ‘Sales Team’ the entry ‘Won the regional sales award in 2023’ because it was recorded incorrectly.”
 ### Adding to a position's context
 > Provide the content you want to add to the position’s context. No justification is needed when adding. For example, you could tell BigManage: “Add to the context of the position ‘Sales Team’: ‘Won the regional sales award in 2023.’”
 ### Removing from a position's context
@@ -154,11 +158,15 @@ Email Support: contact@idealistic.ai
 > Specify the entry you want to remove from the member’s context and include a justification explaining why it’s being removed. You can remove an entry by its text or by its number. For example: “Remove from the context of the member ‘John Doe’ the entry ‘Completed leadership training in 2022’ because it was entered by mistake.”
 
 ## Instructions
-##### Instructions are guidelines or directions that can be given to the company, positions or members.
+##### Instructions are guidelines or directions that can be given to the company, departments, positions or members.
 ### Adding to the company's instructions
 > Provide the instruction you want to add to the company. No justification is needed when adding. For example, you could tell BigManage: “Add to the company’s instructions: ‘All outgoing invoices must be approved by the finance manager.’”
 ### Removing from the company's instructions
 > Specify the instruction you want to remove from the company and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the company’s instructions the instruction ‘All outgoing invoices must be approved by the finance manager’ because the process has changed.”
+### Adding to a department's instructions
+> Provide the instruction you want to add to the department. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the position ‘Sales Team’: ‘Always follow the client onboarding checklist.’”
+### Removing from a department's instructions
+> Specify the instruction you want to remove from the department and include a justification explaining why it’s being removed. You can remove an instruction by its text or by its number. For example: “Remove from the instructions of the department ‘Sales Team’ the instruction ‘Always follow the client onboarding checklist’ because it has been updated.”
 ### Adding to a position's instructions
 > Provide the instruction you want to add to the position. No justification is needed when adding. For example, you could tell BigManage: “Add to the instructions of the position ‘Sales Team’: ‘Always follow the client onboarding checklist.’”
 ### Removing from a position's instructions
