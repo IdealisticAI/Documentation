@@ -268,6 +268,15 @@ Email Support: contact@idealistic.ai
 ### Updating a list
 > Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content. For example, you could tell Idealistic: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’”
 
+## Notes
+##### ...
+### Adding information to a note
+> Add new information to a note by simply providing the content you want to include. This works well when you want to expand on an existing note without changing what’s already there. For example, you could tell BigManage: “Add a note saying the client requested a follow-up call” or “Append information that the invoice was sent earlier today.”
+### Removing information from a note
+> Remove one or more pieces of information from a note when they are no longer relevant or were added by mistake. You just need to indicate what should be removed. For example, you could tell BigManage: “Remove the note entry about the canceled meeting” or “Delete the outdated information from the note since it’s no longer valid.”
+### Updating a note
+> Update an existing note by specifying which part of the note you want to change and what the new information should be. This is useful when something has changed and you want the note to stay accurate. For example, you could tell BigManage: “Update the note to say that the meeting was moved to Wednesday” or “Change the note content to reflect the new deadline at the end of the month.”
+
 ## Topics
 ##### Topics are records of issues, tasks or projects that involve members, customers, goods & services, etc.
 ### Creating a topic
