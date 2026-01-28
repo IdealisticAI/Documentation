@@ -269,7 +269,7 @@ Email Support: contact@idealistic.ai
 > Specify the list in the company you want to update by name or ID, indicate which entry in that list you’re changing (by its text or number), and provide the new content. For example, you could tell Idealistic: “Update the ‘Onboarding Checklist’ — change item ‘Submit W-4’ to ‘Submit tax form’”
 
 ## Notes
-##### ...
+##### Notes are personal comments stored per team that you can read, edit or remove at a later date.
 ### Adding information to a note
 > Add new information to a note by simply providing the content you want to include. This works well when you want to expand on an existing note without changing what’s already there. For example, you could tell BigManage: “Add a note saying the client requested a follow-up call” or “Append information that the invoice was sent earlier today.”
 ### Removing information from a note
